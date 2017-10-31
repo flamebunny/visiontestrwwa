@@ -1,0 +1,28 @@
+/* Since IE 8 can't handle the images with background-size, don't let them see it. */
+ul.home-options .number-indicator {
+  margin-top: -80px; }
+
+ul.home-options .half-height .number-indicator {
+  margin-top: 0; }
+
+ul.home-options li a {
+  line-height: 100px; }
+
+ul.home-options li a span.icon {
+  display: none; }
+
+ul.home-options li.half-height a {
+  line-height: 40px; }
+
+.pc-notice {
+  background: url("../../images/overlay.png"); }
+
+.pc-notice .dialog {
+  background-position: -30em 23em; }
+
+ul.home-options li.cashbet a span.text span.icon {
+  background-image: none;
+  text-indent: 0; }
+
+/*# sourceMappingURL=css.map */
+/*# sourceMappingURL=ie8down.css.map */

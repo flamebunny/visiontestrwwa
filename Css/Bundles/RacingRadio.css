@@ -1,0 +1,251 @@
+/* RacingRadio */
+
+/* ./Css/RacingRadio/RacingRadio.css */
+
+body {
+  background: #f8f8f8; }
+
+.radio-container {
+  font-size: 1em; }
+
+.logo {
+  margin: 0 auto;
+  display: block;
+  margin-top: 0em;
+  max-width: 58em;
+  width: 90%;
+  margin-top: 10em;
+  margin-bottom: 10em; }
+
+.switch {
+  width: 18em;
+  height: 7em;
+  margin: 0em auto;
+  margin-bottom: 3em;
+  border-radius: 1.5em;
+  border-top: .2em solid #cbcbcb;
+  border-bottom: .2em solid #d8d8d8;
+  position: relative;
+  border-right: .2em solid #d8d8d8;
+  border-left: .2em solid #d8d8d8;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  -o-user-select: none;
+  user-select: none;
+  background: #fff;
+  filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#e2e2e2', endColorstr='#efefef',GradientType=0 ); }
+
+.switch .track {
+  transition: width .3s ease;
+  -moz-transition: width .3s ease;
+  -webkit-transition: width .3s ease;
+  -o-transition: width .3s ease;
+  border-top: .2em solid #000;
+  border-bottom: .2em solid #f5f5f5;
+  height: 5em;
+  border-radius: 1em;
+  position: absolute;
+  top: .8em;
+  overflow: hidden; }
+
+.switch .track.blue {
+  color: #888 !important;
+  box-shadow: inset 0 0 1em .1em #aaa;
+  width: 16em;
+  right: 1em;
+  background: #fff;
+  background: linear-gradient(to bottom, #ddd 0%, #fff 40%);
+  filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#ddd', endColorstr='#fff',GradientType=0 ); }
+
+.switch.off .track.blue,
+.switch.on .track.red {
+  width: 16em; }
+
+.switch .track.red {
+  box-shadow: inset 0 0 1em .1em #095d90;
+  left: 1em;
+  background: #2596db;
+  background: linear-gradient(to bottom, #2596db 0%, #157dbc 100%);
+  filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#2596db', endColorstr='#157dbc',GradientType=0 ); }
+
+.switch .knob {
+  width: 6em;
+  height: 6em;
+  border-radius: 1em;
+  position: absolute;
+  top: .4em;
+  box-shadow: 0 0 0.3em rgba(0, 0, 0, 0.2);
+  transition: left .3s ease;
+  -moz-transition: left .3s ease;
+  -webkit-transition: left .3s ease;
+  -o-transition: left .3s ease; }
+
+.switch .knob {
+  background: #dddddd;
+  background: linear-gradient(to bottom, #dddddd 0%, #e7e7e7 100%);
+  filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#ffffff', endColorstr='#f8f8f8',GradientType=0 ); }
+
+.hint {
+  background: #ffffff;
+  background: linear-gradient(to bottom, #ffffff 0%, #f8f8f8 100%);
+  filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#ffffff', endColorstr='#f8f8f8',GradientType=0 ); }
+
+.switch.on .knob {
+  left: 11.5em; }
+
+.switch.off .knob {
+  left: .5em; }
+
+.switch .knob .indent {
+  width: 3em;
+  height: 2.9em;
+  margin: 1.5em;
+  box-shadow: inset 0 0.2em 0.2em rgba(0, 0, 0, 0.1);
+  border-radius: .5em;
+  border-bottom: .1em solid #fff;
+  background: #d2d2d2;
+  background: linear-gradient(to bottom, #d2d2d2 0%, #d2d2d2 100%);
+  filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#e2e2e2', endColorstr='#efefef',GradientType=0 ); }
+
+.switch .text {
+  position: absolute;
+  color: #fff;
+  top: 2em;
+  font-family: 'PFSquareBold', 'Arial Black', Arial, Helvetica, sans-serif;
+  line-height: 1em; }
+
+.switch .text span {
+  font-size: 2.4em; }
+
+.blue .text {
+  right: 3em;
+  text-shadow: 0 .1em .05em #888888; }
+
+.red .text {
+  left: 3.5em;
+  text-shadow: 0 .1em .05em #095d90; }
+
+.hint {
+  margin: 0 4em 4em;
+  padding: 2em;
+  border-radius: 2em;
+  border: .2em solid #e2e2e2;
+  position: relative;
+  box-shadow: 0 0.3em 0.3em rgba(0, 0, 0, 0.05); }
+
+.hint:before {
+  content: '';
+  border: 2.2em solid transparent;
+  border-bottom: 2.2em solid #e2e2e2;
+  position: absolute;
+  top: -4.5em;
+  left: 50%;
+  margin-left: -2.2em; }
+
+.hint:after {
+  content: '';
+  border: 2em solid transparent;
+  border-bottom: 2em solid #fff;
+  position: absolute;
+  top: -4em;
+  left: 50%;
+  margin-left: -2em; }
+
+.hint h2 {
+  color: #157dbc;
+  text-shadow: none;
+  text-transform: none;
+  font-size: 3em;
+  margin-bottom: .5em;
+  line-height: 1em; }
+
+.hint p {
+  font-size: 2.4em;
+  font-family: 'PFSquareBold', 'Arial Black', Arial, Helvetica, sans-serif;
+  line-height: 1.2em;
+  margin: 0; }
+
+#loading-overlay {
+  top: 0; }
+
+/*# sourceMappingURL=css.map */
+/*# sourceMappingURL=RacingRadio.css.map */
+
+
+/* ./Css/RacingRadio/RacingRadioMedia.css */
+
+@media only screen and (min-width: 481px) and (max-width: 959px) {
+  .radio-container {
+    font-size: .75em; } }
+
+@media only screen and (max-width: 480px) {
+  .radio-container {
+    font-size: .5em; } }
+
+@media (-webkit-min-device-pixel-ratio: 2), (min-resolution: 192dpi) {
+  .logo {
+    width: 75%; }
+  .radio-container {
+    font-size: 1em; }
+  .switch {
+    width: 9em;
+    height: 3.5em;
+    margin: 1.5em auto 3em;
+    border-radius: .75em;
+    border-top: .1em solid #bababa;
+    border-bottom: .1em solid #fafafa; }
+  .switch .track {
+    border-top: .1em solid #000;
+    border-bottom: .1em solid #f5f5f5;
+    height: 2.5em;
+    border-radius: .5em;
+    position: absolute;
+    top: .4em;
+    overflow: hidden; }
+  .switch .track.blue {
+    box-shadow: inset 0 0 .5em .05em #095d90;
+    width: 8em;
+    right: .5em; }
+  .switch.off .track.blue,
+  .switch.on .track.red {
+    width: 8em; }
+  .switch .track.red {
+    box-shadow: inset 0 0 .5em .05em #b51800;
+    left: .5em; }
+  .switch .knob {
+    width: 3em;
+    height: 3em;
+    border-radius: .5em;
+    position: absolute;
+    top: .2em;
+    box-shadow: 0 0 0.15em rgba(0, 0, 0, 0.2); }
+  .switch.on .knob {
+    left: 5.75em; }
+  .switch.off .knob {
+    left: .3em; }
+  .switch .knob .indent {
+    width: 1.5em;
+    height: 1.45em;
+    margin: .75em;
+    box-shadow: inset 0 0.1em 0.1em rgba(0, 0, 0, 0.1);
+    border-radius: .25em;
+    border-bottom: .05em solid #fff; }
+  .switch .text {
+    top: 1em;
+    font-weight: bold;
+    line-height: .5em; }
+  .switch .text span {
+    font-size: 1.2em; }
+  .blue .text {
+    right: 1.5em;
+    text-shadow: 0 .05em .025em #095d90; }
+  .red .text {
+    left: 1.75em;
+    text-shadow: 0 .05em .025em #b51800; }
+  .hint {
+    padding: 2em;
+    font-size: .5em; } }
+
+/*# sourceMappingURL=css.map */
+/*# sourceMappingURL=RacingRadioMedia.css.map */

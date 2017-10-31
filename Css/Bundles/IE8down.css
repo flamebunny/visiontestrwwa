@@ -1,0 +1,35 @@
+/* ie8down */
+
+/* ./Css/ie.css */
+
+ul.display-list.dogs-list li.dog5 span.runner-number, ul.display-list.dogs-list li.dog9 span.runner-number {
+  color: #000; }
+
+ul.display-list.dogs-list li.dog2 span.runner-number, ul.display-list.dogs-list li.dog10 span.runner-number {
+  color: #ddd; }
+
+ul.display-list.info-expand li {
+  overflow: hidden; }
+
+div.ie-slidefix {
+  height: 1em; }
+
+h3.toggle {
+  margin-top: 0em; }
+
+.i-message span.valign {
+  vertical-align: baseline; }
+
+h2 span.sport {
+  top: -0.2em; }
+
+.pool-type-selector {
+  height: 8.5em; }
+
+.shimmer {
+  background-color: transparent;
+  animation-name: none;
+  color: inherit; }
+
+/*# sourceMappingURL=css.map */
+/*# sourceMappingURL=ie.css.map */

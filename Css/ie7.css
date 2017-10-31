@@ -1,0 +1,61 @@
+ul#home-options li {
+  float: left; }
+
+.nav-info {
+  position: relative; }
+
+.nav-info ul {
+  margin-left: -130px;
+  left: 50%;
+  position: absolute; }
+
+.nav-info ul li {
+  float: left; }
+
+.nav-info ul li.ui-state-active a {
+  background-color: #444; }
+
+.date-selector span {
+  margin-top: -4.4em;
+  position: relative; }
+
+h2 span {
+  display: none; }
+
+/*h2 span.races-30, h2 span.trots-30, h2 span.dogs-30 {display:none;}*/
+.pool-type-selector .divider {
+  height: 3.4em; }
+
+#race-tabs ul.tabs, #results-tabs ul {
+  padding-left: 1em; }
+
+#race-tabs ul.tabs li, #results-tabs ul li {
+  display: block;
+  float: left; }
+
+.calculator ul li {
+  display: block;
+  float: left; }
+
+ul.mystery-bets li a {
+  display: block;
+  text-decoration: none; }
+
+ul.two-line.display-list li a .race-name {
+  margin-left: 0;
+  float: left; }
+
+.standard-form fieldset ol {
+  margin: 0; }
+
+.standard-form fieldset ol li label {
+  display: block; }
+
+.standard-form fieldset ol li .form-note {
+  clear: left; }
+
+ul.display-list span.title {
+  text-indent: .5em; }
+
+/*# sourceMappingURL=css.map */
+/*# sourceMappingURL=ie7.css.map */

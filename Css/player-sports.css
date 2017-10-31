@@ -1,0 +1,414 @@
+h2 .img-head-default {
+  background-image: url(../../images/sports/player.png); }
+
+ul.display-list.sport-icons li span.sport-icon {
+  background-image: url("../../images/icons/20x20-sports.png"); }
+
+.img-list-af {
+  background-position: -100px -40px; }
+
+.img-list-ar {
+  background-position: -140px 0; }
+
+.img-list-bb {
+  background-position: -120px 0; }
+
+.img-list-bdy {
+  background-position: -120px -60px; }
+
+.img-list-bmt {
+  background-position: -40px -40px; }
+
+.img-list-box {
+  background-position: -100px 0; }
+
+.img-list-bsb, .img-list-psp, .img-list-sfb {
+  background-position: -140px -60px; }
+
+.img-list-cfb {
+  background-position: -120px -40px; }
+
+.img-list-crt {
+  background-position: 0px -20px; }
+
+.img-list-cwg, .img-list-oly, .img-list-wol {
+  background-position: 0 -120px; }
+
+.img-list-cyc {
+  background-position: -20px -100px; }
+
+.img-list-drt {
+  background-position: -120px -20px; }
+
+.img-list-elt {
+  background-position: -140px -100px; }
+
+.img-list-ent {
+  background-position: -40px -60px; }
+
+.img-list-fb, .img-list-fbe, .img-list-fbf, .img-list-fbm, .img-list-fbw {
+  background-position: -20px -20px; }
+
+.img-list-fhk {
+  background-position: -60px -60px; }
+
+.img-list-fht {
+  background-position: 0 -100px; }
+
+.img-list-flb {
+  background-position: -80px -60px; }
+
+.img-list-fnc {
+  background-position: -60px -100px; }
+
+.img-list-glf {
+  background-position: -80px -20px; }
+
+.img-list-gr {
+  background-position: -80px 0; }
+
+.img-list-ha, .img-list-h2h, .img-list-trt {
+  background-position: -60px 0; }
+
+.img-list-hdb {
+  background-position: -60px -80px; }
+
+.img-list-hk {
+  background-position: -60px -60px; }
+
+.img-list-hr {
+  background-position: -40px 0; }
+
+.img-list-hrf {
+  background-position: -80px -120px; }
+
+.img-list-hrs {
+  background-position: -40px -120px; }
+
+.img-list-ice {
+  background-position: -100px -60px; }
+
+.img-list-icr {
+  background-position: -80px -40px; }
+
+.img-list-lvb {
+  background-position: -20px -120px; }
+
+.img-list-mma {
+  background-position: -120px -80px; }
+
+.img-list-mtb {
+  background-position: -100px -20px; }
+
+.img-list-mtr {
+  background-position: -40px -20px; }
+
+.img-list-net {
+  background-position: -20px -60px; }
+
+.img-list-pdb {
+  background-position: -40px -100px; }
+
+.img-list-racing {
+  background-position: -100px -120px; }
+
+.img-list-rgl {
+  background-position: -80px -80px; }
+
+.img-list-rgu {
+  background-position: -140px -120px; }
+
+.img-list-snk {
+  background-position: 0 -80px; }
+
+.img-list-spe {
+  background-position: 0 -60px; }
+
+.img-list-spw {
+  background-position: -60px -40px; }
+
+.img-list-stp {
+  background-position: -140px -40px; }
+
+.img-list-swm {
+  background-position: -140px -80px; }
+
+.img-list-tn {
+  background-position: -20px -40px; }
+
+.img-list-ttn {
+  background-position: 0 -40px; }
+
+.img-list-tip {
+  background-position: -80px -140px; }
+
+.img-list-vlb {
+  background-position: -140px -20px; }
+
+.img-list-wgh {
+  background-position: -100px -80px; }
+
+.img-list-wrf {
+  background-position: -60px -20px; }
+
+.img-list-wsp {
+  background-position: -120px -120px; }
+
+.img-list-yct {
+  background-position: -20px -80px; }
+
+.img-list-acc {
+  background-position: -60px -120px; }
+
+.img-list-glc {
+  background-position: -20px -140px; }
+
+/* new ones (20 june 2013) */
+.img-list-alpine-sports {
+  background-position: -40px -140px; }
+
+.img-list-body-boarding {
+  background-position: -100px -140px; }
+
+.img-list-fantasy-nrl {
+  background-position: -120px -140px; }
+
+.img-list-hurling {
+  background-position: -140px -140px; }
+
+.img-list-lacrosse {
+  background-position: 0 -160px; }
+
+.img-list-rowing {
+  background-position: -20px -160px; }
+
+.img-list-surf-ironman {
+  background-position: -40px -160px; }
+
+h2 span.sport {
+  background-image: url("../../images/icons/30x30-silver-sports.png");
+  background-repeat: no-repeat;
+  width: 30px;
+  height: 30px;
+  position: relative;
+  top: .2em;
+  vertical-align: top; }
+
+.img-head-af {
+  background-position: -150px -60px; }
+
+.img-head-ar {
+  background-position: -210px 0; }
+
+.img-head-bb {
+  background-position: -180px 0; }
+
+.img-head-bdy {
+  background-position: -180px -90px; }
+
+.img-head-bmt {
+  background-position: -60px -60px; }
+
+.img-head-box {
+  background-position: -150px 0; }
+
+.img-head-bsb, .img-head-psp, .img-head-sfb {
+  background-position: -210px -90px; }
+
+.img-head-cfb {
+  background-position: -180px -60px; }
+
+.img-head-crt {
+  background-position: 0px -30px; }
+
+.img-head-cwg, .img-head-oly, .img-head-wol {
+  background-position: 0 -180px; }
+
+.img-head-cyc {
+  background-position: -30px -150px; }
+
+.img-head-drt {
+  background-position: -180px -30px; }
+
+.img-head-elt {
+  background-position: -210px -150px; }
+
+.img-head-ent {
+  background-position: -60px -90px; }
+
+.img-head-fb, .img-head-fbe, .img-head-fbf, .img-head-fbm, .img-head-fbw {
+  background-position: -30px -30px; }
+
+.img-head-fhk {
+  background-position: -90px -90px; }
+
+.img-head-fht {
+  background-position: 0 -150px; }
+
+.img-head-flb {
+  background-position: -120px -90px; }
+
+.img-head-fnc {
+  background-position: -90px -150px; }
+
+.img-head-glf {
+  background-position: -120px -30px; }
+
+.img-head-gr {
+  background-position: -120px 0; }
+
+.img-head-ha, .img-head-h2h, .img-head-trt {
+  background-position: -90px 0; }
+
+.img-head-hdb {
+  background-position: -90px -120px; }
+
+.img-head-hk {
+  background-position: -90px -90px; }
+
+.img-head-hr {
+  background-position: -60px 0; }
+
+.img-head-hrf {
+  background-position: -120px -180px; }
+
+.img-head-hrs {
+  background-position: -60px -180px; }
+
+.img-head-ice {
+  background-position: -150px -90px; }
+
+.img-head-icr {
+  background-position: -120px -60px; }
+
+.img-head-lvb {
+  background-position: -30px -180px; }
+
+.img-head-mma {
+  background-position: -180px -120px; }
+
+.img-head-mtb {
+  background-position: -150px -30px; }
+
+.img-head-mtr {
+  background-position: -60px -30px; }
+
+.img-head-net {
+  background-position: -30px -90px; }
+
+.img-head-pdb {
+  background-position: -60px -150px; }
+
+.img-head-racing {
+  background-position: -150px -180px; }
+
+.img-head-rgl {
+  background-position: -120px -120px; }
+
+.img-head-rgu {
+  background-position: -210px -180px; }
+
+.img-head-snk {
+  background-position: 0 -120px; }
+
+.img-head-spe {
+  background-position: 0 -90px; }
+
+.img-head-spw {
+  background-position: -90px -60px; }
+
+.img-head-stp {
+  background-position: -210px -60px; }
+
+.img-head-swm {
+  background-position: -210px -120px; }
+
+.img-head-tn {
+  background-position: -30px -60px; }
+
+.img-head-ttn {
+  background-position: 0 -60px; }
+
+.img-head-vlb {
+  background-position: -210px -30px; }
+
+.img-head-wgh {
+  background-position: -150px -120px; }
+
+.img-head-wrf {
+  background-position: -90px -30px; }
+
+.img-head-wsp {
+  background-position: -180px -180px; }
+
+.img-head-yct {
+  background-position: -30px -120px; }
+
+.img-head-tip {
+  background-position: -120px -210px; }
+
+.img-head-tip-epl {
+  background-position: -90px -210px; }
+
+.img-head-next10 {
+  background-position: 0 -210px; }
+
+.img-head-acc {
+  background-position: -90px -180px; }
+
+.img-head-default {
+  display: none; }
+
+/* new ones (20 june 2013) */
+.img-head-alpine-sports {
+  background-position: -60px -210px; }
+
+.img-head-body-boarding {
+  background-position: -150px -210px; }
+
+.img-head-fantasy-nrl {
+  background-position: -180px -210px; }
+
+.img-head-hurling {
+  background-position: -210px -210px; }
+
+.img-head-lacrosse {
+  background-position: 0 -240px; }
+
+.img-head-rowing {
+  background-position: -30px -240px; }
+
+.img-head-surf-ironman {
+  background-position: -60px -240px; }
+
+.img-head-none {
+  display: none; }
+
+/* For my purposes only - Zak */
+.img-flag-futures {
+  width: 20px !important;
+  height: 20px !important;
+  background-image: url("../../images/icons/20x20-sports.png") !important;
+  background-position: -80px -120px; }
+
+h2 .img-flag-futures {
+  position: relative;
+  top: 0.2em;
+  width: 30px !important;
+  height: 30px !important;
+  background-image: url("../../images/icons/30x30-silver-sports.png") !important;
+  background-repeat: no-repeat;
+  background-position: -120px -180px; }
+
+h2 span {
+  margin: 0; }
+
+h2 .flag {
+  width: 23px;
+  vertical-align: top; }
+
+h2 .none {
+  display: none; }
+
+/*# sourceMappingURL=css.map */
+/*# sourceMappingURL=player-sports.css.map */

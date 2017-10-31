@@ -1,0 +1,23 @@
+.ui-content .autocomplete-list {
+  margin: 0px;
+  position: absolute;
+  top: 2.4em;
+  left: 0;
+  z-index: -1;
+  width: 100%;
+  overflow-y: scroll;
+  max-height: 90px;
+  border-bottom: 1px solid #ccc; }
+
+.ui-li .ui-btn-inner a.ui-link-inherit {
+  padding: .4em;
+  background-color: #fff; }
+
+.ui-li .ui-btn-inner a.ui-link-inherit:hover {
+  background-color: #eee; }
+
+.ui-content {
+  overflow-x: inherit; }
+
+/*# sourceMappingURL=css.map */
+/*# sourceMappingURL=autocomplete.css.map */

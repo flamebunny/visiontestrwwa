@@ -1,0 +1,220 @@
+/* MARKET SELECTOR */
+.market-selector {
+  margin: 0 1em 1em;
+  padding: 0 0 1em; }
+
+.market-selector a {
+  border-radius: .3em;
+  background: #fff url(../../images/content/arrow.png) no-repeat right center;
+  background: url(../../images/content/arrow.png) no-repeat right center, linear-gradient(to bottom, white, #eeeeee);
+  box-shadow: 0 0 2px rgba(0, 0, 0, 0.8);
+  display: block;
+  border: 1px solid #fff;
+  padding: .3em .8em;
+  font-size: 1.375em;
+  /* 22/16 */
+  color: #333;
+  text-decoration: none; }
+
+.market-selector a .market-copy {
+  display: inline-block;
+  max-width: 85%;
+  white-space: nowrap;
+  text-overflow: ellipsis;
+  overflow-x: hidden; }
+
+@media only screen and (orientation: landscape) {
+  .market-selector a .market-copy {
+    max-width: 92%; } }
+
+@media only screen and (min-width: 768px) and (orientation: portrait) {
+  .market-selector a .market-copy {
+    max-width: 90%; } }
+
+.market-selector.back a {
+  background: url(../../images/content/back-arrow.png) no-repeat 10px center, linear-gradient(to bottom, #fff, #eeeeee);
+  padding-left: 2em;
+  text-align: center; }
+
+.market-selector h6 {
+  margin-left: .3em; }
+
+.market-selector fieldset {
+  padding: 10px 0 0 0; }
+
+.market-selector fieldset label {
+  border-radius: 4px;
+  background: linear-gradient(to bottom, #fff, #eee);
+  padding: 4px 5px;
+  width: 123px;
+  display: block;
+  float: left;
+  font-size: 1.2em;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  border: 1px solid #fff;
+  -webkit-box-shadow: 0 0 2px rgba(0, 0, 0, 0.2); }
+
+.market-selector fieldset label.checked {
+  background: linear-gradient(to bottom, #444, #000);
+  color: #BECD2B;
+  border: 1px solid #000; }
+
+.market-selector a .tticon.tticon-special {
+  margin-top: -0.0952380952em;
+  /* -3/33 */
+  margin-right: 0.6666666666em;
+  /* 22/33 */
+  font-size: 1.5em;
+  /* 33/22 */ }
+
+/* MULTI OPTIONS BAR */
+.multi-options {
+  background-color: #333;
+  background: linear-gradient(to bottom, #5f5f5f, #343434);
+  border-top: 1px solid #787878;
+  border-bottom: 1px solid #242424;
+  min-width: 32em; }
+
+.multi-options .button-group {
+  padding: .4em 1em;
+  text-align: center; }
+
+.multi-options .button-group a {
+  background: #222;
+  background: linear-gradient(to bottom, #888, #555);
+  border-radius: .3em;
+  position: relative;
+  display: inline-block;
+  color: #eee;
+  line-height: 2em;
+  font-size: 1.4em;
+  border-bottom: 1px solid #131313;
+  border-top: 1px solid #aaa;
+  text-align: center;
+  text-decoration: none;
+  font-weight: bold;
+  width: 10em;
+  text-transform: uppercase;
+  margin: 0 .3em;
+  text-shadow: 0 -1px 0 #000; }
+
+.multi-options .button-group a span.number {
+  background: #d40000;
+  background: linear-gradient(to bottom, #e56666, #d40000);
+  border-radius: 1em;
+  width: auto;
+  color: #fff;
+  line-height: 1em;
+  text-transform: uppercase;
+  position: absolute;
+  right: -.4em;
+  top: -.4em;
+  text-indent: 0;
+  text-align: center;
+  border: 1px solid #d40000;
+  padding: .2em .4em; }
+
+/* TIPPING OPTIONS */
+.tipping-options {
+  width: 300px;
+  margin: 0 auto;
+  padding: 0;
+  list-style: none; }
+
+.tipping-options li {
+  width: 130px;
+  float: left;
+  margin: 0 10px 10px; }
+
+.tipping-options li a {
+  display: block;
+  text-align: center;
+  text-indent: -999px;
+  overflow: hidden;
+  border-radius: 5px;
+  background-color: rgba(0, 0, 0, 0.3);
+  border-bottom: 1px solid rgba(255, 255, 255, 0.3);
+  border-top: 1px solid rgba(0, 0, 0, 0.5);
+  border-right: 1px solid rgba(0, 0, 0, 0.1);
+  border-left: 1px solid rgba(0, 0, 0, 0.1);
+  width: 128px;
+  height: 113px;
+  background-position: center center;
+  background-repeat: no-repeat;
+  text-decoration: none; }
+
+.tipping-options li span {
+  color: #ccc;
+  text-align: center;
+  display: block;
+  line-height: 30px; }
+
+.tipping-options li.footy-tip-8 a {
+  background-image: url(../../images/icons/tipping-footy-8.png); }
+
+.tipping-options li.footy-tip-10 a {
+  background-image: url(../../images/icons/tipping-footy-10.png); }
+
+.tipping-options li.footy-tip-12 a {
+  background-image: url(../../images/icons/tipping-footy-12.png); }
+
+.tipping-options li.epl-football a {
+  background-image: url(../../images/icons/tipping-EPL.png); }
+
+.selector {
+  background: #eee;
+  border-radius: .5em;
+  padding: 1em;
+  margin: 0 1em 1em; }
+
+.selector select {
+  width: 100%;
+  font-size: 1.4em;
+  padding: .3em .5em; }
+
+.selector.bi-option label {
+  padding: .5em .5em .5em 1em;
+  background: #fff;
+  float: left;
+  border-radius: .5em;
+  width: 120px;
+  font-size: 1.2em; }
+
+.selector.bi-option label.first {
+  margin-right: 10px; }
+
+.selector.bi-option label input {
+  float: right; }
+
+/* Win or Place Selection confirm popup */
+h2.popup-heading {
+  color: #000;
+  text-shadow: none;
+  line-height: 2em; }
+
+.popup-prop {
+  background: #f4f4f4;
+  padding: 10px 0;
+  border-radius: 5px;
+  font-size: 1.4em; }
+
+.popup-prop .display-no {
+  background: #ccc;
+  font-weight: bold;
+  padding: 3px 7px;
+  border-radius: 3px;
+  text-align: left;
+  margin-right: 3px;
+  text-shadow: 0 1px #fff; }
+
+.popup-prop .display-text {
+  font-weight: bold;
+  word-wrap: break-word; }
+
+.button-group .confirm-win-leg.button, .confirm-place-leg.button {
+  width: 50px; }
+
+/*# sourceMappingURL=css.map */
+/*# sourceMappingURL=player.css.map */

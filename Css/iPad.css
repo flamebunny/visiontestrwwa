@@ -1,0 +1,1227 @@
+@media only screen and (min-width: 768px) {
+  html {
+    font-size: 1em;
+    /* 16/16 */ }
+  h3.toggle.open .arrow {
+    margin-top: 1em;
+    /* 19.2000007629395/19.2000007629395 */ }
+  .mystery-bet-type-item {
+    width: 33.5% !important; }
+  .mystery-bet-type .mystery-type {
+    display: inline-block;
+    vertical-align: middle;
+    padding-bottom: 7px; }
+  .mystery-bet-explanation-message {
+    width: 430px !important; }
+  #main-container .numpad a {
+    font-size: 1.5em;
+    /* 33/22 */ }
+  #main-container .numpad a.key-backspace .tticon {
+    padding-top: 0.22em;
+    /* 11/50 */
+    padding-bottom: 0.42em;
+    /* 21/50 */
+    font-size: 1.5151515151em;
+    /* 50/33 */ }
+  ul.display-list.transactions li a {
+    min-height: 2.8191717232em;
+    /* 73.3281/19.2000007629395 */ }
+  ul.display-list.transactions li .tticon.tticon-special {
+    margin-top: -0.1875em;
+    /* -6/32 */ }
+  ul.display-list.transactions li a span.type {
+    margin-top: 0.1875em;
+    /* 6/32 */ }
+  ul.display-list li a span.bet-options span.tticon {
+    margin-top: -0.0333333333em;
+    /* -1/30 */
+    font-size: 1.3636363636em;
+    /* 30/22 */ }
+  ul.display-list.two-line li .tticon.tticon-special {
+    right: 1em;
+    /* 28/28 */
+    margin-top: -0.5357142857em;
+    /* -15/28 */
+    font-size: 1.2727272727em;
+    /* 28/22 */ }
+  ul.display-list.two-line li.closed .race-status {
+    margin-top: 33px; }
+  ul.display-list.two-line li.closed .tticon.tticon-special {
+    right: 1em; }
+  .special-offer-row,
+  .offer-details {
+    font-size: 0.625em; }
+  .bet-slip ul li .pr5em .tticon.tticon-special {
+    right: 80px;
+    margin-top: 0.0909090909em;
+    /* 2/22 */
+    font-size: 1em; }
+  ul.display-list li span.jackpot.aligntop {
+    margin-top: 0.4545454545em;
+    /* 10/22 */ }
+  .help li .tticon {
+    top: 0.3529411764em;
+    /* 6/17 */
+    font-size: 0.7727272727em; }
+  .sports-matrix {
+    background-image: url("../../images/icons/20x20-sports@2x.png"); }
+  ul li,
+  ul.display-list li {
+    font-size: 1.375em;
+    /* 22/16 */ }
+  .alert, .icon.important {
+    background-image: url(../../images/icons/48x48-important.png); }
+  .icon.tick {
+    background-image: url(../../images/icons/48x48-tick.png); }
+  .icon.information {
+    background-image: url(../../images/icons/48x48-information.png); }
+  h1 {
+    background-image: url(../../images/core/logo@2x.png);
+    width: 8em;
+    margin-left: -4em; }
+  #home-player h1 {
+    background-image: url(../../images/core/logo-player@2x.png);
+    width: 8em;
+    margin-left: -4em; }
+  ul li,
+  ul.display-list li {
+    font-size: 1.375em;
+    /* 22/16 */ }
+  ul.display-list li.favorite span.favorite {
+    background-image: url(../../images/icons/ipad/favorite.png); }
+  ul.display-list li span.rider-change {
+    background: url(../../images/icons/ipad/jockey-change.png) no-repeat 0 0; }
+  ul.display-list li span.starter-runner-number .favorite {
+    top: -.7em !important; }
+  .pool-type-selector .selector .withDrawer {
+    width: 92%; }
+  .pool-type-selector .pools .withDrawer {
+    width: 90.5%; }
+  .pool-type-selector .selector .arrow {
+    height: 2.7em; }
+  .tab-style #header a.help-button,
+  .player-style #header a.help-button {
+    width: 44px; }
+  #header a.help span,
+  #page-title .help-button span {
+    width: 8px;
+    height: 36px;
+    background-image: url("../../images/icons/i@2x.png"); }
+  .number-indicator {
+    min-width: 11px;
+    height: 19px;
+    line-height: 19px; }
+  .number-indicator.small {
+    min-width: 9px;
+    height: 17px;
+    padding-right: 4px;
+    padding-left: 4px;
+    line-height: 17px; }
+  ul.home-options .number-indicator {
+    top: 80px; }
+  ul#home-options li.margin-bottom {
+    margin-bottom: 10px; }
+  ul#home-options li a span {
+    position: absolute;
+    top: 100px;
+    left: 0; }
+  ul#home-options li a div.notice {
+    position: absolute;
+    right: 0px;
+    top: 48px; }
+  #home-extra-option {
+    height: 88px;
+    width: 610px;
+    margin: 0 auto;
+    margin-bottom: 30px; }
+  #home-extra-option ul li {
+    list-style: none;
+    float: left;
+    text-align: center; }
+  #home-extra-option ul li a {
+    height: 102px;
+    font-size: 1.2em; }
+  #home-extra-option ul li a:hover {
+    box-shadow: inset 0 0 25px rgba(55, 141, 224, 0.5); }
+  #home-extra-option ul li a span {
+    height: 60px;
+    width: 80px;
+    margin-top: 5px; }
+  /*2 options*/
+  #home-extra-option.two-buttons ul li a.watch {
+    width: 303px; }
+  #home-extra-option.two-buttons ul li a.watch span {
+    background: url(../../images/icons/ipad/watch.png) no-repeat 10px 0; }
+  #home-extra-option.two-buttons ul li a.listen {
+    width: 303px; }
+  #home-extra-option.two-buttons ul li a.listen span {
+    background: url(../../images/icons/ipad/listen.png) no-repeat 10px 0; }
+  /*3 options*/
+  #home-extra-option.three-buttons ul li a.watch {
+    width: 201px; }
+  #home-extra-option.three-buttons ul li a.watch span {
+    background: url(../../images/icons/ipad/watch.png) no-repeat 10px 0; }
+  #home-extra-option.three-buttons ul li a.listen {
+    width: 202px; }
+  #home-extra-option.three-buttons ul li a.listen span {
+    background: url(../../images/icons/ipad/listen.png) no-repeat 10px 0; }
+  #home-extra-option.three-buttons ul li a.locator {
+    width: 201px; }
+  #home-extra-option.three-buttons ul li a.locator span {
+    background: url(../../images/icons/ipad/locator.png) no-repeat 20px 0; }
+  ul#home-options {
+    font-size: 1.4em; }
+  ul#home-options li.races a {
+    background: url(../../images/icons/ipad/races.png) no-repeat center -15px, -webkit-gradient(linear, 0% 0%, 0% 100%, color-stop(0, rgba(0, 0, 0, 0.25)), color-stop(1, rgba(0, 0, 0, 0.15))); }
+  ul#home-options li.trots a {
+    background: url(../../images/icons/ipad/trots.png) no-repeat center -15px, -webkit-gradient(linear, 0% 0%, 0% 100%, color-stop(0, rgba(0, 0, 0, 0.25)), color-stop(1, rgba(0, 0, 0, 0.15))); }
+  ul#home-options li.dogs a {
+    background: url(../../images/icons/ipad/greyhounds.png) no-repeat center -15px, -webkit-gradient(linear, 0% 0%, 0% 100%, color-stop(0, rgba(0, 0, 0, 0.25)), color-stop(1, rgba(0, 0, 0, 0.15))); }
+  ul#home-options li.mystery a {
+    background: url(../../images/icons/ipad/mystery.png) no-repeat center -15px, -webkit-gradient(linear, 0% 0%, 0% 100%, color-stop(0, rgba(0, 0, 0, 0.25)), color-stop(1, rgba(0, 0, 0, 0.15))); }
+  ul#home-options li.jackpot a {
+    background: url(../../images/icons/ipad/landing-jackpot.png) no-repeat center -15px, -webkit-gradient(linear, 0% 0%, 0% 100%, color-stop(0, rgba(0, 0, 0, 0.25)), color-stop(1, rgba(0, 0, 0, 0.15))); }
+  ul#home-options li.jackpot.disabled a {
+    background: url(../../images/icons/ipad/landing-jackpot-disabled.png) no-repeat center -15px, -webkit-gradient(linear, 0% 0%, 0% 100%, color-stop(0, rgba(0, 0, 0, 0.25)), color-stop(1, rgba(0, 0, 0, 0.15))); }
+  ul#home-options li.account a {
+    background: url(../../images/icons/ipad/account.png) no-repeat center -15px, -webkit-gradient(linear, 0% 0%, 0% 100%, color-stop(0, rgba(0, 0, 0, 0.25)), color-stop(1, rgba(0, 0, 0, 0.15))); }
+  ul#home-options li.next-to-jump a {
+    background: url(../../images/icons/ipad/next-to-jump.png) no-repeat center -15px, -webkit-gradient(linear, 0% 0%, 0% 100%, color-stop(0, rgba(0, 0, 0, 0.25)), color-stop(1, rgba(0, 0, 0, 0.15))); }
+  ul#home-options li.fixed-odds a, ul#home-options li.img-landing-player a {
+    background: url(../../images/icons/ipad/player.png) no-repeat center -15px, -webkit-gradient(linear, 0% 0%, 0% 100%, color-stop(0, rgba(0, 0, 0, 0.25)), color-stop(1, rgba(0, 0, 0, 0.15))); }
+  ul#home-options li.fixed-odds.disabled a {
+    opacity: 0.5;
+    background: url(../../images/icons/ipad/landing-player-disabled.png) no-repeat center -15px, -webkit-gradient(linear, 0% 0%, 0% 100%, color-stop(0, rgba(0, 0, 0, 0.25)), color-stop(1, rgba(0, 0, 0, 0.15))); }
+  ul#home-options li.sports-landing a {
+    background: url(../../images/icons/ipad/landing-sports.png) no-repeat center -15px, -webkit-gradient(linear, 0% 0%, 0% 100%, color-stop(0, rgba(0, 0, 0, 0.25)), color-stop(1, rgba(0, 0, 0, 0.15))); }
+  ul#home-options li.img-landing a {
+    background: url(../../images/icons/ipad/player.png) no-repeat center -15px, -webkit-gradient(linear, 0% 0%, 0% 100%, color-stop(0, rgba(0, 0, 0, 0.25)), color-stop(1, rgba(0, 0, 0, 0.15))); }
+  ul#home-options li.img-landing-racing a {
+    background: url(../../images/icons/ipad/landing-racing.png) no-repeat center -15px, -webkit-gradient(linear, 0% 0%, 0% 100%, color-stop(0, rgba(0, 0, 0, 0.25)), color-stop(1, rgba(0, 0, 0, 0.15))); }
+  ul#home-options li.img-landing-racing-player a {
+    background: url(../../images/icons/ipad/landing-racing-player.png) no-repeat center -15px, -webkit-gradient(linear, 0% 0%, 0% 100%, color-stop(0, rgba(0, 0, 0, 0.25)), color-stop(1, rgba(0, 0, 0, 0.15))); }
+  ul#home-options li.img-landing-tipping a {
+    background: url(../../images/icons/ipad/landing-tipping.png) no-repeat center -15px, -webkit-gradient(linear, 0% 0%, 0% 100%, color-stop(0, rgba(0, 0, 0, 0.25)), color-stop(1, rgba(0, 0, 0, 0.15))); }
+  ul#home-options li.accumulator-landing a {
+    background: url(../../images/icons/ipad/landing-accumulator.png) no-repeat center -15px, -webkit-gradient(linear, 0% 0%, 0% 100%, color-stop(0, rgba(0, 0, 0, 0.25)), color-stop(1, rgba(0, 0, 0, 0.15))); }
+  ul#home-options li.img-landing-tabtouch a {
+    background: url(../../images/icons/ipad/landing-tab-touch.png) no-repeat center -15px, -webkit-gradient(linear, 0% 0%, 0% 100%, color-stop(0, rgba(0, 0, 0, 0.25)), color-stop(1, rgba(0, 0, 0, 0.15))); }
+  ul#home-options li.next-ten-landing a {
+    background: url(../../images/icons/ipad/landing-next-10.png) no-repeat center -15px, -webkit-gradient(linear, 0% 0%, 0% 100%, color-stop(0, rgba(0, 0, 0, 0.25)), color-stop(1, rgba(0, 0, 0, 0.15))); }
+  ul#home-options li.img-landing-next-10 a {
+    background: url(../../images/icons/ipad/landing-next-10.png) no-repeat center -15px, -webkit-gradient(linear, 0% 0%, 0% 100%, color-stop(0, rgba(0, 0, 0, 0.25)), color-stop(1, rgba(0, 0, 0, 0.15))); }
+  ul#home-options li.img-landing-share a {
+    background: url(../../images/icons/ipad/landing-share.png) no-repeat center -15px, -webkit-gradient(linear, 0% 0%, 0% 100%, color-stop(0, rgba(0, 0, 0, 0.25)), color-stop(1, rgba(0, 0, 0, 0.15))); }
+  ul#home-options li.img-landing-all-sports a {
+    background: url(../../images/icons/ipad/landing-all-sports.png) no-repeat center -15px, -webkit-gradient(linear, 0% 0%, 0% 100%, color-stop(0, rgba(0, 0, 0, 0.25)), color-stop(1, rgba(0, 0, 0, 0.15))); }
+  ul#home-options li.img-landing-accumulator a {
+    background: url(../../images/icons/ipad/landing-accumulator.png) no-repeat center -15px, -webkit-gradient(linear, 0% 0%, 0% 100%, color-stop(0, rgba(0, 0, 0, 0.25)), color-stop(1, rgba(0, 0, 0, 0.15))); }
+  /* player sports */
+  ul#home-options li.img-landing-bb a {
+    background: url(../../images/icons/ipad/landing-basketball.png) no-repeat center -15px, -webkit-gradient(linear, 0% 0%, 0% 100%, color-stop(0, rgba(0, 0, 0, 0.25)), color-stop(1, rgba(0, 0, 0, 0.15))); }
+  ul#home-options li.img-landing-box a {
+    background: url(../../images/icons/ipad/landing-boxing.png) no-repeat center -15px, -webkit-gradient(linear, 0% 0%, 0% 100%, color-stop(0, rgba(0, 0, 0, 0.25)), color-stop(1, rgba(0, 0, 0, 0.15))); }
+  ul#home-options li.img-landing-crt a {
+    background: url(../../images/icons/ipad/landing-cricket.png) no-repeat center -15px, -webkit-gradient(linear, 0% 0%, 0% 100%, color-stop(0, rgba(0, 0, 0, 0.25)), color-stop(1, rgba(0, 0, 0, 0.15))); }
+  ul#home-options li.img-landing-fht a {
+    background: url(../../images/icons/ipad/landing-ultimate-fighting.png) no-repeat center -15px, -webkit-gradient(linear, 0% 0%, 0% 100%, color-stop(0, rgba(0, 0, 0, 0.25)), color-stop(1, rgba(0, 0, 0, 0.15))); }
+  ul#home-options li.img-landing-glf a {
+    background: url(../../images/icons/ipad/landing-golf.png) no-repeat center -15px, -webkit-gradient(linear, 0% 0%, 0% 100%, color-stop(0, rgba(0, 0, 0, 0.25)), color-stop(1, rgba(0, 0, 0, 0.15))); }
+  ul#home-options li.img-landing-mma a {
+    background: url(../../images/icons/ipad/landing-mma.png) no-repeat center -15px, -webkit-gradient(linear, 0% 0%, 0% 100%, color-stop(0, rgba(0, 0, 0, 0.25)), color-stop(1, rgba(0, 0, 0, 0.15))); }
+  ul#home-options li.img-landing-mtb a {
+    background: url(../../images/icons/ipad/landing-motorcycle.png) no-repeat center -15px, -webkit-gradient(linear, 0% 0%, 0% 100%, color-stop(0, rgba(0, 0, 0, 0.25)), color-stop(1, rgba(0, 0, 0, 0.15))); }
+  ul#home-options li.img-landing-mtr a {
+    background: url(../../images/icons/ipad/landing-motorsport.png) no-repeat center -15px, -webkit-gradient(linear, 0% 0%, 0% 100%, color-stop(0, rgba(0, 0, 0, 0.25)), color-stop(1, rgba(0, 0, 0, 0.15))); }
+  ul#home-options li.img-landing-pdb a {
+    background: url(../../images/icons/ipad/landing-premiership-doubles.png) no-repeat center -15px, -webkit-gradient(linear, 0% 0%, 0% 100%, color-stop(0, rgba(0, 0, 0, 0.25)), color-stop(1, rgba(0, 0, 0, 0.15))); }
+  ul#home-options li.img-landing-rgl a {
+    background: url(../../images/icons/ipad/landing-rugby-league.png) no-repeat center -15px, -webkit-gradient(linear, 0% 0%, 0% 100%, color-stop(0, rgba(0, 0, 0, 0.25)), color-stop(1, rgba(0, 0, 0, 0.15))); }
+  ul#home-options li.img-landing-rgu a {
+    background: url(../../images/icons/ipad/landing-rugby-union.png) no-repeat center -15px, -webkit-gradient(linear, 0% 0%, 0% 100%, color-stop(0, rgba(0, 0, 0, 0.25)), color-stop(1, rgba(0, 0, 0, 0.15))); }
+  ul#home-options li.img-landing-tn a {
+    background: url(../../images/icons/ipad/landing-tennis.png) no-repeat center -15px, -webkit-gradient(linear, 0% 0%, 0% 100%, color-stop(0, rgba(0, 0, 0, 0.25)), color-stop(1, rgba(0, 0, 0, 0.15))); }
+  ul#home-options li.img-landing-ar a {
+    background: url(../../images/icons/ipad/landing-afl.png) no-repeat center -15px, -webkit-gradient(linear, 0% 0%, 0% 100%, color-stop(0, rgba(0, 0, 0, 0.25)), color-stop(1, rgba(0, 0, 0, 0.15))); }
+  ul#home-options li.img-landing-fb a {
+    background: url(../../images/icons/ipad/landing-football.png) no-repeat center -15px, -webkit-gradient(linear, 0% 0%, 0% 100%, color-stop(0, rgba(0, 0, 0, 0.25)), color-stop(1, rgba(0, 0, 0, 0.15))); }
+  ul#home-options li.img-landing-lvb a {
+    background: url(../../images/icons/ipad/landing-live-betting.png) no-repeat center -15px, -webkit-gradient(linear, 0% 0%, 0% 100%, color-stop(0, rgba(0, 0, 0, 0.25)), color-stop(1, rgba(0, 0, 0, 0.15))); }
+  .races-20 {
+    background-image: url(../../images/icons/30x30-races.png); }
+  .trots-20 {
+    background-image: url(../../images/icons/30x30-trots.png); }
+  .dogs-20 {
+    background-image: url(../../images/icons/30x30-dogs.png); }
+  .races-foo-30,
+  .races-fff-30,
+  .races-30 {
+    background-image: url(../../images/icons/50x50-races.png); }
+  .trots-foo-30,
+  .trots-fff-30,
+  .trots-30 {
+    background-image: url(../../images/icons/50x50-trots.png); }
+  .dogs-foo-30,
+  .dogs-fff-30,
+  .dogs-30 {
+    background-image: url(../../images/icons/50x50-dogs.png); }
+  #content .button.back-arrow span {
+    background-image: url(../../images/icons/ipad/button-icon-back.png); }
+  #content .button.forward-arrow span {
+    background-image: url(../../images/icons/ipad/button-icon-forward.png); }
+  #content .button.back-arrow.cancel span {
+    background-image: url(../../images/icons/ipad/button-icon-back-red.png); }
+  #content .button.plus span {
+    background-image: url("../../images/icons/ipad/button-icon-plus.png"); }
+  #content .button.back-arrow.disabled span {
+    background-image: url("../../images/icons/ipad/button-icon-back.png"); }
+  #content .button.forward-arrow.disabled span {
+    background-image: url("../../images/icons/ipad/button-icon-forward-disabled.png"); }
+  #content .button.plus.disabled span {
+    background-image: url("../../images/icons/ipad/button-icon-plus-disabled.png"); }
+  .runners-list li input {
+    width: 2em;
+    height: 2em;
+    padding-top: 5em; }
+  ul.display-list#multi-bet-list label input {
+    top: 1.8em; }
+  /* #content .button.square { width: 9em;
+    font-size: 1em; }
+#content .button.square span { padding-top: 6em;
+    background-position: 50% 20px; }
+#content .button.square.add-credit span { background-image: url('../../images/icons/ipad/account-add.png'); }
+#content .button.square.withdraw-credit span { background-image: url('../../images/icons/ipad/account-withdraw.png'); }
+#content .button.square.transactions span { background-image: url('../../images/icons/ipad/account-transactions.png'); }
+#content .button.square.offers span { background-image: url('../../images/icons/ipad/account-offers.png');
+    background-position: 50% 15px; }
+#content .button.square.bet-limits span { background-image: url('../../images/icons/ipad/account-limitbet.png');
+    background-position: 50% 15px; }
+#content .button.square.change-pass span { background-image: url('../../images/icons/ipad/account-change.png'); }
+#content .button.square.personal-info span { background-image: url('../../images/icons/ipad/account-personal-info.png'); } */
+  ul.display-list.proposition-list li input {
+    margin: .6em 0 0 1em;
+    width: 2em;
+    height: 2em; }
+  ul.display-list.proposition-list li.suspended .odds {
+    margin-right: 1.5em; }
+  .nav-info .info-track {
+    background: url(../../images/icons/ipad/track.png) no-repeat 5px center; }
+  .fine {
+    background-image: url(../../images/icons/ipad/weather-fine.png); }
+  .cloudy {
+    background-image: url(../../images/icons/ipad/weather-cloudy.png); }
+  .overcast {
+    background-image: url(../../images/icons/ipad/weather-overcast.png); }
+  .raining, .showery {
+    background-image: url(../../images/icons/ipad/weather-showery.png); }
+  .unknown {
+    background-image: url(../../images/icons/ipad/weather-unknown.png); }
+  ul.display-list.next-to-jump-list li a span.track {
+    background: url(../../images/icons/ipad/33x33-track.png) no-repeat 5px center; }
+  ul.display-list.next-to-jump-list li a span.fine {
+    background-image: url(../../images/icons/ipad/33x33-weather-fine.png); }
+  ul.display-list.next-to-jump-list li a span.cloudy {
+    background-image: url(../../images/icons/ipad/33x33-weather-cloudy.png); }
+  ul.display-list.next-to-jump-list li a span.overcast {
+    background-image: url(../../images/icons/ipad/33x33-weather-overcast.png); }
+  ul.display-list.next-to-jump-list li a span.raining, ul.display-list.next-to-jump-list li a span.showery {
+    background-image: url(../../images/icons/ipad/33x33-weather-showery.png); }
+  ul.display-list.next-to-jump-list li a span.unknown {
+    background-image: url(../../images/icons/ipad/33x33-weather-unknown.png); }
+  /* FLAGS */
+  .flag, ul.display-list.with-icon li a span.flag-icon {
+    background-image: url(../../images/icons/30x20-flags@2x.png);
+    width: 46px;
+    height: 32px; }
+  .img-flag-afc {
+    background-position: -480px -40px; }
+  .img-flag-africa {
+    background-position: -0px -40px; }
+  .img-flag-argentina {
+    background-position: -0px -80px; }
+  .img-flag-australia {
+    background-position: -0px -120px; }
+  .img-flag-austria {
+    background-position: -0px -160px; }
+  .img-flag-belgium {
+    background-position: -0px -200px; }
+  .img-flag-bolivia {
+    background-position: -420px -160px; }
+  .img-flag-brazil {
+    background-position: -0px -240px; }
+  .img-flag-bulgaria {
+    background-position: -420px -120px; }
+  .img-flag-canada {
+    background-position: -0px -280px; }
+  .img-flag-chile {
+    background-position: -60px 0px; }
+  .img-flag-china {
+    background-position: -60px -40px; }
+  .img-flag-colombia {
+    background-position: -60px -80px; }
+  .img-flag-continental {
+    background-position: -60px -120px; }
+  .img-flag-croatia {
+    background-position: -420px -200px; }
+  .img-flag-cyprus {
+    background-position: -60px -160px; }
+  .img-flag-czech-republic {
+    background-position: -60px -200px; }
+  .img-flag-denmark {
+    background-position: -60px -240px; }
+  .img-flag-ecuador {
+    background-position: -60px -280px; }
+  .img-flag-england {
+    background-position: -120px 0px; }
+  .img-flag-faroe-islands {
+    background-position: -120px -40px; }
+  .img-flag-fifa {
+    background-position: -480px -80px; }
+  .img-flag-finland {
+    background-position: -120px -80px; }
+  .img-flag-france {
+    background-position: -120px -120px; }
+  .img-flag-friendlies {
+    background-position: -120px -160px; }
+  .img-flag-germany {
+    background-position: -120px -200px; }
+  .img-flag-greece {
+    background-position: -120px -240px; }
+  .img-flag-hong-kong {
+    background-position: -420px -240px; }
+  .img-flag-hungary {
+    background-position: -420px -280px; }
+  .img-flag-iceland {
+    background-position: -120px -280px; }
+  .img-flag-international {
+    background-position: -180px -0px; }
+  .img-flag-ireland {
+    background-position: -180px -40px; }
+  .img-flag-israel {
+    background-position: -180px -80px; }
+  .img-flag-italy {
+    background-position: -180px -120px; }
+  .img-flag-japan {
+    background-position: -180px -160px; }
+  .img-flag-korea {
+    background-position: -180px -200px; }
+  .img-flag-latvia {
+    background-position: -180px -240px; }
+  .img-flag-lithuania {
+    background-position: -480px 0px; }
+  .img-flag-mexico {
+    background-position: -180px -280px; }
+  .img-flag-netherlands {
+    background-position: -240px 0px; }
+  .img-flag-northern-ireland {
+    background-position: -360px -12px; }
+  .img-flag-new-zealand {
+    background-position: -240px -40px; }
+  .img-flag-norway {
+    background-position: -240px -80px; }
+  .img-flag-paraguay {
+    background-position: -420px -120px; }
+  .img-flag-peru {
+    background-position: -240px -120px; }
+  .img-flag-poland {
+    background-position: -240px -160px; }
+  .img-flag-portugal {
+    background-position: -240px -200px; }
+  .img-flag-romania {
+    background-position: -240px -240px; }
+  .img-flag-russia {
+    background-position: -240px -280px; }
+  .img-flag-scotland {
+    background-position: -300px 0px; }
+  .img-flag-serbia {
+    background-position: -420px -40px; }
+  .img-flag-singapore {
+    background-position: -300px -40px; }
+  .img-flag-slovakia {
+    background-position: -300px -80px; }
+  .img-flag-slovenia {
+    background-position: -300px -120px; }
+  .img-flag-south-africa {
+    background-position: -300px -160px; }
+  .img-flag-spain {
+    background-position: -300px -200px; }
+  .img-flag-sweden {
+    background-position: -300px -240px; }
+  .img-flag-switzerland {
+    background-position: -300px -280px; }
+  .img-flag-turkey {
+    background-position: -360px 0px; }
+  .img-flag-uae {
+    background-position: -360px -40px; }
+  .img-flag-uefa {
+    background-position: -360px -80px; }
+  .img-flag-united-kingdom {
+    background-position: -360px -120px; }
+  .img-flag-ukraine {
+    background-position: -360px -160px; }
+  .img-flag-united-states {
+    background-position: -360px -240px; }
+  .img-flag-uruguay {
+    background-position: -360px -200px; }
+  .img-flag-venezuala {
+    background-position: -360px -280px; }
+  .img-flag-wales {
+    background-position: -420px 0px; }
+  .img-flag-belarus {
+    background-position: -480px -120px; }
+  .img-flag-georgia {
+    background-position: -480px -160px; }
+  .img-flag-iraq {
+    background-position: -480px -200px; }
+  .img-flag-morocco {
+    background-position: -480px -240px; }
+  .img-flag-oman {
+    background-position: -480px -280px; }
+  .img-flag-a-league {
+    background-position: -540px 0; }
+  .img-flag-azerbaijan {
+    background-position: -540px -40px; }
+  .img-flag-estonia {
+    background-position: -540px -80px; }
+  .img-flag-indonesia {
+    background-position: -540px -120px; }
+  .img-flag-iran {
+    background-position: -540px -160px; }
+  .img-flag-jordan {
+    background-position: -540px -200px; }
+  .img-flag-kazakhstan {
+    background-position: -540px -240px; }
+  .img-flag-macedonia {
+    background-position: -540px -280px; }
+  .img-flag-saudi-arabia {
+    background-position: -600px 0; }
+  .img-flag-syria {
+    background-position: -600px -40px; }
+  .img-flag-thailand {
+    background-position: -600px -80px; }
+  .img-flag-uzbekistan {
+    background-position: -600px -120px; }
+  .img-flag-vietnam {
+    background-position: -600px -160px; }
+  .img-flag-world-cup {
+    background-position: -600px -200px; }
+  .img-flag-northern-ireland {
+    background-position: -600px -240px; }
+  /* new ones (20 June 2013) */
+  .img-flag-algeria {
+    background-position: -600px -280px; }
+  .img-flag-americas {
+    background-position: 0 -320px; }
+  .img-flag-asian {
+    background-position: -60px -320px; }
+  .img-flag-costa-rica {
+    background-position: -120px -320px; }
+  .img-flag-euro {
+    background-position: -180px -320px; }
+  .img-flag-none {
+    display: none !important; }
+  /* SPORTS */
+  ul.display-list.next-to-jump-list li a .sport-details span.fixture-name {
+    width: 28em; }
+  ul.display-list.with-icon li a span.sport-icon,
+  ul.display-list.jackpot-list li a span.icon,
+  ul.display-list.next-to-jump-list li a span.icon {
+    background-image: url(../../images/icons/20x20-sports@2x.png);
+    width: 40px;
+    height: 40px;
+    top: 0.3em; }
+  ul.display-list.jackpot-list li a span.fixture-name {
+    height: 40px; }
+  ul.display-list.next-to-jump-list li a span.icon.fn,
+  ul.display-list.jackpot-list li a span.icon.fn {
+    background-position: -120px -320px; }
+  ul.display-list.next-to-jump-list li a span.bet-type,
+  ul.display-list.next-to-jump-list li a span.jackpot-value,
+  ul.display-list.jackpot-list li a span.bet-type,
+  ul.display-list.jackpot-list li a span.jackpot-value {
+    padding-left: 2.3em; }
+  .img-list-acc {
+    background-position: -120px -240px; }
+  .img-list-af {
+    background-position: -200px -80px; }
+  .img-list-ar {
+    background-position: -280px 0; }
+  .img-list-bb {
+    background-position: -240px 0; }
+  .img-list-bdy {
+    background-position: -240px -120px; }
+  .img-list-bmt {
+    background-position: -80px -80px; }
+  .img-list-box {
+    background-position: -200px 0; }
+  .img-list-bsb, .img-list-psp, .img-list-sfb {
+    background-position: -280px -120px; }
+  .img-list-cfb {
+    background-position: -240px -80px; }
+  .img-list-crt {
+    background-position: 0px -40px; }
+  .img-list-cwg, .img-list-oly, .img-list-wol {
+    background-position: 0 -240px; }
+  .img-list-cyc {
+    background-position: -40px -200px; }
+  .img-list-drt {
+    background-position: -240px -40px; }
+  .img-list-elt {
+    background-position: -280px -200px; }
+  .img-list-ent {
+    background-position: -80px -120px; }
+  .img-list-fb, .img-list-fbe, .img-list-fbf, .img-list-fbm, .img-list-fbw {
+    background-position: -40px -40px; }
+  .img-list-fhk {
+    background-position: -120px -120px; }
+  .img-list-fht {
+    background-position: 0 -200px; }
+  .img-list-flb {
+    background-position: -160px -120px; }
+  .img-list-fnc {
+    background-position: -120px -200px; }
+  .img-list-glf {
+    background-position: -160px -40px; }
+  .img-list-gr {
+    background-position: -160px 0; }
+  .img-list-ha, .img-list-h2h, .img-list-trt {
+    background-position: -120px 0; }
+  .img-list-hdb {
+    background-position: -120px -160px; }
+  .img-list-hk {
+    background-position: -120px -120px; }
+  .img-list-hr {
+    background-position: -80px 0; }
+  .img-list-hrf {
+    background-position: -160px -240px; }
+  .img-list-hrs {
+    background-position: -80px -240px; }
+  .img-list-ice {
+    background-position: -200px -120px; }
+  .img-list-icr {
+    background-position: -160px -80px; }
+  .img-list-lvb {
+    background-position: -40px -240px; }
+  .img-list-mma {
+    background-position: -240px -160px; }
+  .img-list-mtb {
+    background-position: -200px -40px; }
+  .img-list-mtr {
+    background-position: -80px -40px; }
+  .img-list-net {
+    background-position: -40px -120px; }
+  .img-list-pdb {
+    background-position: -80px -200px; }
+  .img-list-racing {
+    background-position: -200px -240px; }
+  .img-list-rgl {
+    background-position: -160px -160px; }
+  .img-list-rgu {
+    background-position: -280px -240px; }
+  .img-list-snk {
+    background-position: 0 -160px; }
+  .img-list-spe {
+    background-position: 0 -120px; }
+  .img-list-spw {
+    background-position: -120px -80px; }
+  .img-list-stp {
+    background-position: -280px -80px; }
+  .img-list-swm {
+    background-position: -280px -160px; }
+  .img-list-tn {
+    background-position: -40px -80px; }
+  .img-list-ttn {
+    background-position: 0 -80px; }
+  .img-list-tip {
+    background-position: -160px -280px; }
+  .img-list-vlb {
+    background-position: -280px -40px; }
+  .img-list-wgh {
+    background-position: -200px -160px; }
+  .img-list-wrf {
+    background-position: -120px -40px; }
+  .img-list-wsp {
+    background-position: -240px -240px; }
+  .img-list-yct {
+    background-position: -40px -160px; }
+  .img-list-glc {
+    background-position: -40px -280px; }
+  /* new ones (20 june 2013) */
+  .img-list-alpine-sports {
+    background-position: -80px -280px; }
+  .img-list-body-boarding {
+    background-position: -200px -280px; }
+  .img-list-fantasy-nrl {
+    background-position: -240px -280px; }
+  .img-list-hurling {
+    background-position: -280px -280px; }
+  .img-list-lacrosse {
+    background-position: 0 -320px; }
+  .img-list-rowing {
+    background-position: -40px -320px; }
+  .img-list-surf-ironman {
+    background-position: -80px -320px; }
+  /* SPORTS HEADER */
+  h2 span.sport {
+    background-image: url("../../images/icons/30x30-silver-sports@2x.png");
+    background-repeat: no-repeat;
+    width: 60px;
+    height: 60px;
+    position: relative;
+    top: .1em; }
+  .img-head-af {
+    background-position: -300px -120px; }
+  .img-head-ar {
+    background-position: -420px 0; }
+  .img-head-bb {
+    background-position: -360px 0; }
+  .img-head-bdy {
+    background-position: -360px -180px; }
+  .img-head-bmt {
+    background-position: -120px -120px; }
+  .img-head-box {
+    background-position: -300px 0; }
+  .img-head-bsb, .img-head-psp, .img-head-sfb {
+    background-position: -420px -180px; }
+  .img-head-cfb {
+    background-position: -360px -120px; }
+  .img-head-crt {
+    background-position: 0px -60px; }
+  .img-head-cwg, .img-head-oly, .img-head-wol {
+    background-position: 0 -360px; }
+  .img-head-cyc {
+    background-position: -60px -300px; }
+  .img-head-drt {
+    background-position: -360px -60px; }
+  .img-head-elt {
+    background-position: -420px -300px; }
+  .img-head-ent {
+    background-position: -120px -180px; }
+  .img-head-fb, .img-head-fbe, .img-head-fbf, .img-head-fbm, .img-head-fbw {
+    background-position: -60px -60px; }
+  .img-head-fhk {
+    background-position: -180px -180px; }
+  .img-head-fht {
+    background-position: 0 -300px; }
+  .img-head-flb {
+    background-position: -240px -180px; }
+  .img-head-fnc {
+    background-position: -180px -300px; }
+  .img-head-glf {
+    background-position: -240px -60px; }
+  .img-head-gr {
+    background-position: -240px 0; }
+  .img-head-ha, .img-head-h2h, .img-head-trt {
+    background-position: -180px 0; }
+  .img-head-hdb {
+    background-position: -180px -240px; }
+  .img-head-hk {
+    background-position: -180px -180px; }
+  .img-head-hr {
+    background-position: -120px 0; }
+  .img-head-hrf {
+    background-position: -240px -360px; }
+  .img-head-hrs {
+    background-position: -120px -360px; }
+  .img-head-ice {
+    background-position: -300px -180px; }
+  .img-head-icr {
+    background-position: -240px -120px; }
+  .img-head-lvb {
+    background-position: -60px -360px; }
+  .img-head-mma {
+    background-position: -360px -240px; }
+  .img-head-mtb {
+    background-position: -300px -60px; }
+  .img-head-mtr {
+    background-position: -120px -60px; }
+  .img-head-net {
+    background-position: -60px -180px; }
+  .img-head-pdb {
+    background-position: -120px -300px; }
+  .img-head-racing {
+    background-position: -300px -360px; }
+  .img-head-rgl {
+    background-position: -240px -240px; }
+  .img-head-rgu {
+    background-position: -420px -360px; }
+  .img-head-snk {
+    background-position: 0 -240px; }
+  .img-head-spe {
+    background-position: 0 -180px; }
+  .img-head-spw {
+    background-position: -180px -120px; }
+  .img-head-stp {
+    background-position: -420px -120px; }
+  .img-head-swm {
+    background-position: -420px -240px; }
+  .img-head-tip-epl {
+    background-position: -180px -420px; }
+  .img-head-tn {
+    background-position: -60px -120px; }
+  .img-head-ttn {
+    background-position: 0 -120px; }
+  .img-head-vlb {
+    background-position: -420px -60px; }
+  .img-head-wgh {
+    background-position: -300px -240px; }
+  .img-head-wrf {
+    background-position: -180px -60px; }
+  .img-head-wsp {
+    background-position: -360px -360px; }
+  .img-head-yct {
+    background-position: -60px -240px; }
+  .img-head-tip {
+    background-position: -240px -420px; }
+  .img-head-next10 {
+    background-position: 0 -420px; }
+  .img-head-acc {
+    background-position: -180px -360px; }
+  /* new ones (20 june 2013) */
+  .img-head-alpine-sports {
+    background-position: -120px -420px; }
+  .img-head-body-boarding {
+    background-position: -300px -420px; }
+  .img-head-fantasy-nrl {
+    background-position: -360px -420px; }
+  .img-head-hurling {
+    background-position: -420px -420px; }
+  .img-head-lacrosse {
+    background-position: 0 -480px; }
+  .img-head-rowing {
+    background-position: -60px -480px; }
+  .img-head-surf-ironman {
+    background-position: -120px -480px; }
+  .img-head-default {
+    display: none; }
+  .img-flag-futures {
+    width: 40px !important;
+    height: 40px !important;
+    background-image: url("../../images/icons/20x20-sports@2x.png") !important;
+    background-position: -160px -240px; }
+  h2 .img-flag-futures {
+    position: relative;
+    top: 0;
+    width: 60px !important;
+    height: 60px !important;
+    background-image: url("../../images/icons/30x30-silver-sports@2x.png") !important;
+    background-repeat: no-repeat;
+    background-position: -240px -360px; }
+  .black-bubble .jackpot {
+    background-position: 0 .25em; }
+  ul.display-list span.jackpot {
+    height: 1.3em;
+    width: 1.3em; }
+  ul.display-list span.jackpot,
+  ul.display-list li a span.bet-options span.jackpot,
+  h3 span.jackpot,
+  .pool-type-selector span.jackpot {
+    background-image: url(../../images/icons/ipad/jackpot.png) !important; }
+  ul.display-list li a span.bet-options span.guaranteed,
+  h3 span.guaranteed,
+  .pool-type-selector span.guaranteed {
+    background-image: url(../../images/icons/ipad/guaranteed-minimum.png) !important; }
+  ul.display-list li a span.bet-options span.racing-radio,
+  h3 span.racing-radio {
+    background-image: url(../../images/icons/ipad/racing-radio.png) !important; }
+  ul.display-list li a span.bet-options span.fixed,
+  h3 span.fixed {
+    background-image: url(../../images/icons/ipad/fixed.png) !important; }
+  ul.display-list li a span.bet-options span.fixed.grey {
+    background-image: url(../../images/icons/ipad/fixed-grey.png) !important; }
+  ul.display-list li a span.bet-options span.jackpot, ul.display-list li a span.bet-options span.guaranteed, ul.display-list li a span.bet-options span.racing-radio, ul.display-list li a span.bet-options span.fixed {
+    width: 2.4em;
+    height: 2.4em; }
+  ul.display-list.scr span.sub-name {
+    max-width: 80%; }
+  ul.display-list.scr span.sub-name span.date-time {
+    font-size: 14px;
+    color: #999;
+    display: block; }
+  h3.betting-info {
+    padding-right: 1px; }
+  /*Result*/
+  .pay {
+    margin-right: 10px;
+    font-size: 15px; }
+  .info-icon, .button.info {
+    background: #369cc7 url(../../images/icons/ipad/information.png) no-repeat center center;
+    background: url(../../images/icons/ipad/information.png) no-repeat center center, -moz-linear-gradient(top, #68b5d5, #0886ba); }
+  .info-icon {
+    display: block; }
+  .sort-by-product .fixed img, .sort-by-product .tote img {
+    margin-bottom: .2em; }
+  a.toggle-arrow {
+    display: block;
+    height: 7px;
+    width: 15px;
+    float: right;
+    background: url(../../images/content/toggle-arrow.png) no-repeat 0 -7px;
+    margin-top: 22px; }
+  a.toggle-arrow-open {
+    background: url(../../images/content/toggle-arrow.png) no-repeat 0 0;
+    margin-top: 20px; }
+  a.toggle-arrow:hover {
+    cursor: pointer; }
+  .display-list.accumulator-list li label span.winner,
+  .display-list.accumulator-list li label span.draw,
+  .display-list.accumulator-list li label span.abandoned,
+  .display-list.accumulator-list li label span.closed {
+    background-image: url(../../images/icons/ipad/game-outcomes.png);
+    width: 30px;
+    height: 32px; }
+  .display-list.accumulator-list li label span.draw {
+    width: 68px;
+    background-position: -30px 0;
+    margin-left: -35px; }
+  .display-list.accumulator-list li label span.abandoned {
+    width: 108px;
+    background-position: -98px 0;
+    margin-left: -54px; }
+  .display-list.accumulator-list li label span.closed {
+    width: 73px;
+    background-position: -206px 0;
+    margin-left: -36.5px; }
+  ul.display-list li a span.bet-options span.racing-radio,
+  h3 span.racing-radio {
+    background-image: url(../../images/icons/ipad/racing-radio.png) !important; }
+  .dividend .favorite {
+    background-image: url(../../images/icons/ipad/favorite.png); }
+  ul.display-list li a span.bet-options span.jackpot, ul.display-list li a span.bet-options span.guaranteed, ul.display-list li a span.bet-options span.racing-radio {
+    width: 2.2em;
+    height: 2.2em; }
+  .runners-list .dividends .dividend.fixed, .runners-list .dividends .dividend.tote {
+    height: 52px;
+    line-height: 1.4em;
+    font-size: 21px;
+    width: 3.3em; }
+  .runners-list .dividends .fixed span, .runners-list .dividends .tote span {
+    font-size: 21px; }
+  .i-message span.info {
+    background: url(../../images/icons/32x32-information.png);
+    width: 32px;
+    height: 32px; }
+  .i-message {
+    text-align: center;
+    font-size: 18px;
+    padding: 10px;
+    padding-top: 0;
+    margin-top: 10px;
+    border-radius: .5em;
+    font-weight: bold; }
+  .i-message.freebet span {
+    background: url(../../images/icons/32x32-information-dark-blue.png); }
+  .i-message.freebet a {
+    position: relative;
+    width: 175px;
+    text-align: right; }
+  .i-message.freebet {
+    margin: 0 10px; }
+  .i-message.freebet .info-wrap {
+    width: 150px; }
+  ul.display-list.resulted li div.result-runner-numbers {
+    background: url(../../images/icons/ipad/result-runner-bg.png) no-repeat; }
+  ul.display-list li.scratched span.scratched,
+  ul.display-list li.late-scratching span.late-scratching {
+    margin-top: .8em; }
+  ul.display-list li span.position-value {
+    line-height: 1.2em;
+    margin-top: .8em;
+    font-size: 24px; }
+  ul.display-list.runners-list li input {
+    margin-top: 1.4em; }
+  ul.display-list li span.position-value {
+    line-height: 1.2em;
+    margin-top: .8em;
+    font-size: 24px; }
+  ul.display-list.runners-list li input {
+    margin-top: 1.4em; }
+  ul.field-results li span.position-value {
+    font-size: 21px; }
+  /*Meeting*/
+  ul.display-list.arrow li a.meeting-race {
+    margin-top: -20px; }
+  li .meeting-arrow {
+    background: url(../../images/content/arrow-big.png) no-repeat center center;
+    right: 150px; }
+  li.finished .meeting-arrow, li.orange .meeting-arrow, li.abandoned .meeting-arrow {
+    right: 0; }
+  ul.display-list li a span.fixture-next-race span {
+    display: block;
+    position: absolute;
+    top: 18%;
+    left: 22px; }
+  .prefill-options.receipt {
+    padding: 10px 4px 1px 0; }
+  .prefill-options.receipt a.button {
+    padding-top: 4px;
+    border-radius: 8px;
+    -webkit-border-radius: 8px; }
+  .prefill-options.receipt a span {
+    width: 25px; }
+  .black-bubble .racing-radio-icon {
+    width: 30px;
+    height: 30px;
+    background: url("../../images/icons/ipad/racing-radio.png") no-repeat 0 0; }
+  h3 a.info-icon-right {
+    width: 32px;
+    background-image: url(../../images/icons/32x32-information.png); }
+  /*Silk Button*/
+  ul.display-list li span.starter-runner-number span.silk {
+    display: block;
+    width: 35px;
+    height: 42px;
+    position: absolute;
+    margin-top: 1px;
+    left: 3px;
+    top: 3px; }
+  ul.display-list li span.starter-runner-number span.last4 {
+    margin-top: 22px;
+    margin-left: 1px;
+    display: block;
+    text-align: center;
+    font-size: 18px;
+    font-weight: normal;
+    text-shadow: none; }
+  ul.display-list li span.starter-runner-number.original, ul.display-list li span.starter-runner-number.original.form-button {
+    border-radius: .5em;
+    -webkit-border-radius: .5em; }
+  ul.display-list li span.starter-runner-number {
+    font-size: 20px;
+    line-height: 1.3em;
+    width: 2.5em;
+    height: 3.7em;
+    margin: .8em 1.2em .5em .8em;
+    padding: 0 5px 0 5px;
+    border-radius: .7em;
+    -webkit-border-radius: .7em; }
+  ul.display-list li span.starter-runner-number.form-button {
+    font-size: 20px;
+    line-height: 1.3em;
+    width: 2.5em;
+    height: 3.7em;
+    margin: .8em 1.2em .5em .8em;
+    padding: 0 5px 0 5px;
+    border-radius: .7em;
+    -webkit-border-radius: .7em; }
+  ul.display-list li span.starter-runner-number span.silk.trots {
+    width: 28px; }
+  /*Drawer*/
+  a.drawer {
+    width: 50px;
+    height: 55px; }
+  a.drawer.close {
+    background: url(../../images/icons/ipad/drawer-button.png) no-repeat 0 0; }
+  a.drawer.open {
+    background: url(../../images/icons/ipad/drawer-button.png) no-repeat -50px 0; }
+  a.drawer-button {
+    font-size: 20px !important;
+    margin: 0 5px !important;
+    padding: 12px !important; }
+  .pool-type-selector .drawer-options span.drawer-arrow {
+    background: url(../../images/icons/ipad/drawer-arrow.png) no-repeat;
+    width: 31px;
+    height: 19px;
+    position: absolute;
+    top: -17px;
+    right: 30px;
+    z-index: 2; }
+  /*Form*/
+  .shortform {
+    background-repeat: repeat-x;
+    background-position: 20px 0; }
+  .display-list .formlist,
+  .display-list .formlist li {
+    font-size: 18px;
+    line-height: 30px; }
+  .display-list .formlist li.full-width span.label {
+    width: 23.2%; }
+  .shortform .form-long h6:after {
+    top: 16px; }
+  .shortform .form-long h6.expanded:after {
+    top: 10px; }
+  /*Roving Banker and All up button*/
+  #race-tabs ul.tabs li .rb-box, #race-tabs ul.tabs li a.edit-box {
+    width: 85px;
+    height: 46px;
+    padding: 0 0 3px 0 !important;
+    border-radius: 5px;
+    -webkit-border-radius: 5px;
+    margin-top: -3px; }
+  #race-tabs ul.tabs li .rb-box.selected {
+    margin-top: -2px; }
+  #race-tabs ul.tabs li a.edit-box {
+    height: 40px !important;
+    padding: 5px 0 5px 0 !important; }
+  .prefill-options.allup-edit {
+    padding-bottom: 5px;
+    margin: 5px; }
+  .prefill-options.allup-edit span.race-selected {
+    width: 52px;
+    height: 50px;
+    padding: 5px;
+    margin-bottom: 10px; }
+  .prefill-options.odds-evens span {
+    width: 11em; }
+  .allup-group li {
+    padding: 12px;
+    margin: 10px 0 0 5px; }
+  .allup-group li input {
+    position: relative;
+    top: -1px;
+    cursor: pointer; }
+  /*Three Lines Rule*/
+  .rider.multiLine-Starter.halfLine-Jockey {
+    display: block; }
+  .rider.multiLine-Starter.oneLine-Jockey {
+    display: block; }
+  .rider.multiLine-Starter.oneHalfLine-Jockey {
+    display: block; }
+  .rider.singleLine-Starter.halfLine-Jockey {
+    display: block; }
+  .rider.singleLine-Starter.oneLine-Jockey {
+    display: block; }
+  .rider.singleLine-Starter.oneHalfLine-Jockey {
+    display: block; }
+  /* Favourite numbers */
+  .form-fav-nos button {
+    line-height: 30px; }
+  .form-fav-nos .pick-dates button span.jackpot {
+    margin-top: 4px; }
+  .select-games {
+    margin-left: 50px;
+    /* center it a bit */ }
+  .select-numbers {
+    width: 480px;
+    /* unfortunately, iPad in portrait still doesn't have enough space for a 10 x 3 grid, so limit it to 5 x 5 also :( */
+    margin-left: 0 auto; }
+  .select-pot-luck {
+    width: 500px; }
+  /* blackbook */
+  .display-list.blackbook li .alert,
+  .display-list.blackbook li .link {
+    width: 28px;
+    height: 30px;
+    margin-top: 13px;
+    background-image: url("../../images/icons/blackbook-alert@2x.png"); }
+  .display-list.blackbook li .link {
+    width: 50px;
+    background-image: url("../../images/icons/blackbook-link@2x.png"); }
+  .display-list.blackbook li .link .number-indicator {
+    left: 30px;
+    bottom: 0;
+    font-size: 0.72727272727em;
+    /* 16/22 */ }
+  .display-list.blackbook li .sports-matrix {
+    width: 40px;
+    height: 40px; }
+  .display-list.blackbook li .sports-matrix.animal {
+    background-position: -40px 0; }
+  .display-list.blackbook li .sports-matrix.horse {
+    background-position: -80px 0; }
+  .display-list.blackbook li .sports-matrix.trots {
+    background-position: -120px 0; }
+  .display-list.blackbook li .sports-matrix.dogs {
+    background-position: -160px 0; }
+  .display-list.blackbook li .sports-matrix.trainer {
+    background-position: -160px -320px; }
+  #content .button.gradient-red span {
+    padding-right: 3em;
+    background-image: url("../../images/icons/button-icon-cross@2x.png"); }
+  #content .button.gradient-red.blackbook-delete span {
+    width: 55px;
+    height: 55px;
+    background-position: 15px 13px; }
+  .notify-method p {
+    width: 7.5em; }
+  .notify-method button {
+    margin: 0 0.5em; }
+  #content .button.blackbook-add {
+    line-height: 28px; }
+  #content .button-group.acc-icons .button span {
+    padding-left: 60px;
+    line-height: 38px; }
+  ul.display-list.other-fixed-odds li a .icon {
+    width: 30px;
+    height: 30px; }
+  /* Mobile Drawer */
+  .page-container.bet-slip-open {
+    right: 370px; }
+  .bet-slip-container {
+    width: 369px; }
+  .bet-slip-container .link-list li a:after {
+    width: 9px;
+    height: 15px;
+    margin-top: -8px;
+    background-size: 9px 15px; }
+  .bet-slip-container .link-list li .number-indicator {
+    right: 40px;
+    min-width: 18px;
+    height: 26px;
+    margin-top: -13px;
+    line-height: 26px; }
+  #content .button span.image-matrix,
+  #content .button.disabled span.image-matrix {
+    margin-top: 1px;
+    margin-bottom: -1px; }
+  #content .button span.image-matrix.icon-cash,
+  #content .button.disabled span.image-matrix.icon-cash {
+    margin-top: 5px;
+    margin-bottom: -5px; }
+  html.page-error {
+    background-position: 100% 60%; }
+  /* Freebet */
+  .bet-slip .freebet:before,
+  .bet-slip .freebet:after {
+    left: 30px; }
+  .bet-slip .freebet .icon-sprite.icon-freebet {
+    margin-left: 20px; }
+  .bet-slip .freebet p {
+    padding-top: 1em;
+    padding-bottom: 1em; }
+  .bet-slip .freebet .btn-group {
+    width: 6.8em; }
+  .bet-slip .freebet a.button.white {
+    margin-right: 15px; }
+  .button span.icon-sprite.icon-android.icon-double {
+    width: 1.75em;
+    height: 1.75em; }
+  ul.mystery-bets li a {
+    background-position: 0 0; }
+  ul.mystery-bets li.selected a {
+    background-position: 0 -60px; }
+  ul.mystery-bets li.disabled a {
+    background-position: 0 -120px; }
+  .stamp {
+    font-size: 0.625em;
+    /* 10/16 */ }
+  .market-selector a .tticon.tticon-special {
+    margin-top: -0.0909090909em;
+    /* -3/33 */ }
+  .page-tabtrack .box-venues ul li::before {
+    top: 0.5em;
+    /* 11/22 */
+    left: 0.5909090909em;
+    /* 13/22 */ } }
+
+/* end media query */
+@media only screen and (min-width: 768px) and (orientation: landscape) {
+  ul.display-list.next-to-jump-list li a .sport-details span.fixture-name {
+    width: 40em; }
+  .special-offer .list-options li a {
+    font-size: 1.6em; }
+  .special-offer .list-options li .button {
+    padding-top: 0.5em;
+    /* 8/16 */
+    padding-bottom: 0.5em;
+    /* 8/16 */
+    line-height: 2; }
+  .special-offer .list-options li .button.flat {
+    line-height: 2.125; }
+  .page-tabtrack .page-container {
+    background-position: 50% 200px; } }
+
+/* end landscape media query */
+
+/*# sourceMappingURL=css.map */
+/*# sourceMappingURL=iPad.css.map */

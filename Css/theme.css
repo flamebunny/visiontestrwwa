@@ -1,0 +1,227 @@
+/* theme.scss */
+.section-container {
+  background-color: #000; }
+
+/* Page title (black heading) */
+.page-heading {
+  max-width: 80rem;
+  /* at widest, 1280/16 */
+  margin-right: auto;
+  margin-left: auto;
+  background-color: #000;
+  color: #fff; }
+  .page-heading a {
+    color: #fff;
+    text-decoration: none; }
+
+.refresh-button {
+  display: inline-block; }
+
+.page-heading-copy {
+  display: inline; }
+
+.race-heading .race-heading-selector {
+  position: relative;
+  padding-top: 1.6666666666em;
+  /* 20/12 */
+  padding-bottom: 1.6666666666em;
+  /* 20/12 */ }
+  @media only screen and (min-width: 768px) {
+    .race-heading .race-heading-selector {
+      padding-top: 1.3333333333em;
+      /* 28/21 */
+      padding-bottom: 1.3333333333em;
+      /* 28/21 */ } }
+
+.race-heading .page-heading-copy {
+  position: absolute;
+  top: 0;
+  left: 0;
+  bottom: 0;
+  z-index: 2;
+  background-color: #000;
+  pointer-events: none; }
+
+.race-heading .drop-down {
+  position: absolute;
+  top: 0;
+  left: 0;
+  z-index: 1;
+  height: 100%;
+  border-width: 0;
+  outline-width: 0;
+  -webkit-appearance: none;
+     -moz-appearance: none;
+          appearance: none; }
+
+.race-heading-copy {
+  text-overflow: ellipsis;
+  max-width: calc(100% - 6.5rem);
+  /* 65/10 */ }
+
+.race-heading-copy,
+.race-number-copy {
+  display: inline-block;
+  overflow: hidden;
+  white-space: nowrap; }
+
+.race-number-copy {
+  max-width: 4.2rem;
+  /* 42/10 */ }
+
+/* Betting Page Refresh */
+.col-tote {
+  width: 5.4em;
+  /* 54/10 */
+  margin-right: 1.8em;
+  /* 18/10 */ }
+
+.col-legin,
+.col-allways {
+  width: 4em;
+  /* 40/10 */ }
+
+.col-legin > .flat-column-header-item {
+  min-width: 3.3333333333em;
+  /* 40/12 */ }
+  @media only screen and (min-width: 768px) {
+    .col-legin > .flat-column-header-item {
+      width: 2.9166666666em;
+      /* 56/19.2 */
+      min-width: 2.9166666666em;
+      /* 56/19.2 */
+      margin-right: 0.2604166666em;
+      /* 5/19.2 */ } }
+
+.col-with {
+  width: 3em;
+  /* 30/10 */ }
+
+.flat-column-header .flat-column-header-item.col-leg-in {
+  line-height: 1.3333333333;
+  /* 16/12 */ }
+
+.cell-icon {
+  width: 3em; }
+
+.cell-icon-4half {
+  width: 4.5rem; }
+
+.cell-icon-5 {
+  width: 5rem; }
+
+/* PYOS - Pick Your Own Special */
+.btn-special .tticon.tticon-special::before {
+  top: 0; }
+
+.btn-special .tticon.tticon-special::after {
+  display: none; }
+
+.btn-special.selected {
+  background-color: #f2a900;
+  background-image: none;
+  border-color: #f2a900;
+  -webkit-filter: none;
+          filter: none;
+  color: #fff; }
+  .btn-special.selected .tticon.tticon-special.special-bright {
+    color: #fff !important; }
+
+.accordion {
+  box-shadow: 0 2px 2px rgba(0, 0, 0, 0.15); }
+  .accordion a {
+    background-color: #fff;
+    color: #333333;
+    text-decoration: none;
+    line-height: 1.25;
+    /* 15/12 */ }
+    .accordion a .l-faux-cell {
+      border-bottom: 1px solid #eeeeee; }
+    .accordion a.disabled {
+      background-color: #eeeeee;
+      color: gray; }
+
+.btn-selected-play .l-faux-table {
+  height: 3.25em;
+  /* 39/12 */
+  line-height: 1.25;
+  /* 15/12 */ }
+
+.bet-slip-container .link-list .specials-remaining li {
+  font-size: 1.2rem;
+  /* 12/10 */ }
+
+.bet-slip-container .link-list .specials-remaining a::after {
+  display: none; }
+
+.bet-slip-container .link-list .specials-remaining .power-play-arrow {
+  margin-right: -53px;
+  color: #666666; }
+  @media only screen and (min-width: 768px) {
+    .bet-slip-container .link-list .specials-remaining .power-play-arrow {
+      margin-right: -55px; } }
+
+.bet-slip-container .link-list .specials-remaining ul {
+  background-color: #111111; }
+
+.inline {
+  display: inline !important;
+  height: auto !important;
+  padding: 0 !important; }
+
+/* Tote Sports */
+.totesports-pool > .l-faux-table {
+  height: 4.2rem;
+  /* 42/10 */ }
+
+/* My Account list */
+.list-account a {
+  text-decoration: none; }
+
+.list-account .number-indicator {
+  display: inline-block;
+  height: auto;
+  min-width: 1.5em;
+  min-height: 1.5em;
+  line-height: 1.5;
+  padding: 0;
+  border-width: 0;
+  text-indent: -1px;
+  box-sizing: border-box;
+  -ms-transform: translate(0, -1em);
+      transform: translate(0, -1em); }
+
+/* BPR */
+.btn-replay {
+  background-color: #047e95;
+  border-right: 0.5rem solid #eeeeee; }
+
+.btn-field {
+  background-color: #713d90; }
+
+.icon-pool {
+  background-color: #fff;
+  padding: 0.2rem 0.5rem;
+  border: 1px solid #333333;
+  color: #333333; }
+  .icon-pool.icon-pool-int {
+    border-color: #cd0000;
+    color: #cd0000; }
+
+.rider.rider-change {
+  padding: 0 2px;
+  background-color: #cd92c8; }
+
+.btn-bpr-special {
+  border-width: 1px 0 0; }
+
+.accordion-bpr {
+  box-shadow: none; }
+  .accordion-bpr a {
+    background-color: #f4f4f4; }
+    .accordion-bpr a .l-faux-cell {
+      border-top: 1px solid #cccccc;
+      border-bottom-width: 0; }
+
+/*# sourceMappingURL=css.map */
+/*# sourceMappingURL=theme.css.map */

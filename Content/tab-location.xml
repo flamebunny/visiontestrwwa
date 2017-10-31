@@ -1,0 +1,335 @@
+<markers>
+<!--  01 --><marker lat="-31.953177" lng="115.861092" category="SL1" address='120 Barrack St  Perth  WA'  name='Perth TAB'  /> 
+<!--  05 --><marker lat="-31.921820" lng="115.840466" category="SL1" address='118 Hobart St, Mount Hawthorn  WA'  name='Mt Hawthorn TAB'  />  
+<!--  08 --><marker lat="-31.948261" lng="115.857369" category="SL1" address='129 James Street  Northbridge  WA'  name='Northbridge TAB'  /> 
+<!--  09 --><marker lat="-31.952408" lng="115.853828" category="SL1" address='860 Hay Street  Perth  WA'  name='Perth TAB'  /> 
+<!--  11 --><marker lat="-31.940327" lng="115.810199" category="SL1" address='Shop 24  Cnr of Alexander and Cambridge Street  Wembley  WA'  name='Wembley Centre TAB'  /> 
+<!--  12 --><marker lat="-31.896314" lng="115.758776" category="SL2" address='240 West Coast Highway  Scarborough  WA'  name='White Sands Tavern TAB'  /> 
+<!--  13 --><marker lat="-31.889432" lng="115.793060" category="SL1" address='2 Morris Road  Innaloo  WA'  name='The Saint George Hotel TAB'  /> 
+<!--  14 --><marker lat="-31.897034" lng="115.828835" category="SL1" address='216 Main Street  Osborne Park  WA'  name='Osborne Park Hotel TAB'  /> 
+<!--  15 --><marker lat="-31.938274" lng="115.857095" category="SL2" address='331 Bulwer Street  West Perth  WA'  name='Hyde Park Hotel TAB'  /> 
+<!--  16 --><marker lat="-31.850631" lng="115.878354" category="SL1" address='9 Bonner Drive  Malaga  WA'  name='Malaga TAB'  /> 
+<!--  19 --><marker lat="-31.956158" lng="115.815929" category="SL1" address='198 Nicholson Road  Shenton Park  WA'  name='Shenton Park TAB'  /> 
+<!--  20 --><marker lat="-31.947373" lng="115.827521" category="SL1" address='343 Hay Street  Subiaco  WA'  name='Subiaco TAB'  /> 
+<!--  22 --><marker lat="-32.056240" lng="115.747066" category="SL1" address='17-23 Collie Street  Fremantle  WA'  name='Fremantle TAB'  /> 
+<!--  23 --><marker lat="-31.833196" lng="115.803054" category="SL2" address='349 Warwick Road  Greenwood  WA'  name='Greenwood Hotel TAB'  /> 
+<!--  24 --><marker lat="-31.911315" lng="115.848083" category="SL1" address='Shop 28 6 Wanneroo Road  Yokine  WA'  name='Dog Swamp Shopping Centre TAB'  />
+<!--  25 --><!--marker lat="-31.861726" lng="115.826395" category="SL1" address='501 Wanneroo Road  Balcatta  WA'  name='Seven Mile Inn TAB'  /-->
+<!--  27 --><marker lat="-32.056927" lng="115.962978" category="SL1" address='Shop 1, 320 Spencer Road  Thornlie  WA'  name='Thornlie TAB'  /> 
+<!--  28 --><marker lat="-32.049961" lng="115.793849" category="SL1" address='71 Leach Highway  Willagee  WA'  name='Willagee Commercial Complex TAB'  /> 
+<!--  30 --><marker lat="-32.038762" lng="115.776382" category="SL1" address='Shop 9, 265 Canning Highway  Palmyra  WA'  name='Palmyra TAB'  /> 
+<!--  33 --><marker lat="-32.094909" lng="115.783098" category="SL1" address='2-6 Lancaster Street  Spearwood  WA'  name='Spearwood TAB'  /> 
+<!--  34 --><marker lat="-31.924588" lng="115.881396" category="SL1" address='141 Central Avenue  Inglewood  WA'  name='Inglewood TAB'  /> 
+<!--  35 --><marker lat="-31.918086" lng="115.889904" category="SL1" address='969 Beaufort Street  Inglewood  WA'  name='Inglewood TAB'  /> 
+<!--  36 --><marker lat="-31.927557" lng="115.891658" category="SL1" address='223 Railway Parade  Maylands  WA'  name='Peninsula Tavern TAB'  /> 
+<!--  37 --><marker lat="-32.017973" lng="115.936124" category="SL1" address='1382 Albany Highway  Cannington  WA'  name='Westfield Shopping Centre TAB'  /> 
+<!--  39 --><marker lat="-31.989223" lng="115.906818" category="SL1" address='948 Albany Highway  East Victoria Park  WA'  name='Franklins Tavern TAB'  /> 
+<!--  41 --><marker lat="-31.966407" lng="115.931623" category="SL1" address='174 Wright Street  Cloverdale  WA'  name='Belmont Hotel TAB'  /> 
+<!--  42 --><marker lat="-31.979845" lng="115.910847" category="SL1" address='174 Rutland Avenue  Carlisle  WA'  name='Carlisle Hotel-Motel TAB'  /> 
+<!--  43 --><marker lat="-31.999833" lng="115.918164" category="SL1" address='Tate Street  Bentley  WA'  name='Bentley TAB'  /> 
+<!--  44 --><marker lat="-32.007293" lng="115.939112" category="SL1" address='156 Railway Parade  Queens Park  WA'  name='Queens Park TAB'  /> 
+<!--  45 --><marker lat="-32.011919" lng="115.885972" category="SL1" address='230 Manning Road  Waterford  WA'  name='Waterford TAB'  /> 
+<!--  48 --><marker lat="-32.008066" lng="115.857512" category="SL3" address='241 Canning Highway Como WA'  name='Como Hotel TAB'  /> 
+<!--  50 --><marker lat="-31.972260" lng="115.852541" category="SL1" address='Shop 1A, 25 Mends Street  South Perth  WA'  name='Mends St Shopping Centre TAB'  /> 
+<!--  52 --><marker lat="-32.244249" lng="115.813707" category="SL1" address='P2-1 ,4 Chisham Avenue, Kwinana Town Centre, WA'  name='Kwinana Market Place S/Centre TAB'  /> 
+<!--  55 --><marker lat="-31.837161" lng="115.830300" category="SL1" address='55 Templeton Crescent  Girrawheen  WA'  name='Girrawheen TAB'  /> 
+<!--  56 --><marker lat="-32.035437" lng="115.837622" category="SL1" address='125 Riseley Street  Booragoon  WA'  name='Garden City Shopping Centre TAB'  /> 
+<!--  60 --><marker lat="-31.844835" lng="115.810103" category="SL1" address='Shop Fs004, Beach Road  Warwick  WA'  name='Warwick TAB'  /> 
+<!--  61 --><marker lat="-31.999064" lng="115.762338" category="SL1" address='Shop 2, 484 Stirling Highway  Peppermint Grove  WA'  name='Peppermint Mews TAB'  /> 
+<!--  62 --><marker lat="-31.894579" lng="115.870833" category="SL1" address='162 Alexander Drive Dianella  WA'  name='Dianella Plaza Shopping Centre TAB'  /> 
+<!--  64 --><marker lat="-31.895895" lng="116.031830" category="SL1" address='1 Horace Street  Bellevue  WA'  name='Bellevue TAB'  />
+<!--  65 --><marker lat="-31.895176" lng="115.896958" category="SL1" address='250 Walter Road  Morley WA'  name='Morley TAB'  /> 
+<!--  66 --><marker lat="-31.890457" lng="116.003002" category="SL1" address='30 Helena Street  Midland  WA'  name='Midland TAB'  /> 
+<!--  67 --><marker lat="-31.917207" lng="115.912939" category="SL1" address='78-80 Railway Parade  Bayswater  WA'  name='Bayswater Hotel-Motel TAB'  /> 
+<!--  68 --><marker lat="-31.904498" lng="115.947818" category="SL1" address='2 Parker Street  Bassendean  WA'  name='Bassendean TAB'  /> 
+<!--  70 --><marker lat="-32.013696" lng="115.846032" category="SL1" address='880 Canning Highway  Applecross  WA'  name='Applecross TAB'  /> 
+<!--  71 --><marker lat="-31.796163" lng="115.750439" category="SL1" address='Shop 69, Whitford City Shopping Centre  Hillarys WA'  name='Whitfords City Shopping Center'  /> 
+<!--  73 --><marker lat="-31.869722" lng="115.945061" category="SL2" address='165 Alton Road  Beechboro  WA'  name='Beeches Tavern TAB'  /> 
+<!--  74 --><marker lat="-32.535882" lng="115.741653" category="SL1" address='Shop 113, 330 Pinjarra Road  Mandurah WA'  name='Mandurah Forum Shopping Centre TAB'  /> 
+<!--  75 --><marker lat="-31.988745" lng="116.009815" category="SL1" address='64 Hale Road  Forrestfield WA'  name='Forrestfield TAB'  /> 
+<!--  77 --><marker lat="-32.274810" lng="115.732515" category="SL1" address='6 Flinders Lane Rockingham WA'  name='Rockingham TAB'  /> 
+<!--  79 --><marker lat="-20.733238" lng="116.847109" category="SL1" address='Lot 1079 Searipple Road  Karratha  WA'  name='Ibis Styles Karratha TAB'  /> 
+<!--  82 --><marker lat="-32.152675" lng="116.013935" category="SL1" address='8 Commerce Avenue Armadale  WA'  name='Armadale TAB'  /> 
+<!--  84 --><marker lat="-32.532739" lng="115.719809" category="SL1" address='33 Mandurah Terrace  Mandurah  WA'  name='Mandurah TAB'  /> 
+<!--  85 --><marker lat="-31.972255" lng="115.896529" category="SL1" address='Unit 2, 4 King George Street  Victoria Park  WA'  name='Victoria Park TAB'  /> 
+<!--  86 --><marker lat="-32.111849" lng="116.013790" category="SL1" address='Unit 13, 2756 Albany Highway  Kelmscott  WA'  name='Kelmscott TAB'  /> 
+<!--  87 --><marker lat="-32.069156" lng="116.000609" category="SL1" address='Shop 23, 2164 Albany Highway  Gosnells  WA'  name='Gosnells Shopping Centre TAB'  /> 
+<!--  91 --><marker lat="-33.336202" lng="115.641435" category="SL1" address='23 George Street  Bunbury  WA'  name='Bunbury TAB'  /> 
+<!--  92 --><marker lat="-33.337770" lng="115.658086" category="SL1" address='Shop 5, 11 Sandridge Road,  Bunbury  WA'  name='Sandridge Village Shopping Ctr'  /> 
+<!--  93 --><marker lat="-33.079972" lng="115.897849" category="SL1" address='12 Harper Street  Harvey  WA'  name='Harvey TAB'  /> 
+<!--  94 --><marker lat="-31.889838" lng="116.768188" category="SL3" address='97 Avon Terrace  York  WA'  name='Castle Hotel TAB'  /> 
+<!--  95 --><marker lat="-15.496688" lng="128.143179" category="SL3" address='6 Great Northern Highway  Wyndham  WA'  name='Wyndham Community Club TAB'  /> 
+<!--  96 --><marker lat="-31.971450" lng="116.059243" category="SL1" address='7 Haynes Street  Kalamunda  WA'  name='Kalamunda Central Shopping Ctr TAB'  /> 
+<!--  99 --><marker lat="-31.869767" lng="115.857583" category="SL1" address='8 Chesterfield Road  Mirrabooka  WA'  name='Mirrabooka TAB'  /> 
+<!-- 100 --><marker lat="-30.754652" lng="121.464784" category="SL1" address='497 Hannan Street  Kalgoorlie  WA'  name='Star And Garter Hotel TAB'  /> 
+<!-- 101 --><marker lat="-30.739843" lng="121.466115" category="SL1" address='Maritana Street  Kalgoorlie  WA'  name='Tower Hotel Motel TAB'  /> 
+<!-- 103 --><marker lat="-30.785373" lng="121.488350" category="SL2" address='Lane Street Boulder  WA'  name='Broken Hill Hotel TAB'  /> 
+<!-- 105 --><marker lat="-31.937103" lng="115.793152" category="SL1" address='Shop 89 Howtree Place  Floreat  WA'  name='Floreat Forum Shopping Centre TAB'  /> 
+<!-- 106 --><marker lat="-30.782045" lng="121.489090" category="SL1" address='62 Burt Street  Boulder  WA'  name='Albion Hotel TAB'  /> 
+<!-- 107 --><marker lat="-30.732019" lng="121.464639" category="SL2" address='25 Ward Street  Lamington  WA'  name='North End Tavern TAB'  /> 
+<!-- 108 --><marker lat="-28.736073" lng="114.624770" category="SL1" address='441 Chapman Road  Geraldton  WA'  name='Wintersun Hotel Motel TAB'  /> 
+<!-- 109 --><marker lat="-17.955101" lng="122.243472" category="SL2" address='Carnarvon Street  Broome  WA'  name='Roebuck Bay Hotel TAB'  /> 
+<!-- 110 --><marker lat="-32.039180" lng="115.906684" category="SL1" address='355 High Road  Riverton  WA'  name='Riverton TAB'  /> 
+<!-- 111 --><marker lat="-23.203761" lng="117.671953" category="SL3" address='Rocklea Road Paraburdoo  WA'  name='Paraburdoo Inn TAB'  /> 
+<!-- 114 --><marker lat="-33.649131" lng="115.344042" category="SL1" address='Shop 1, 44-48 Queen Street  Busselton  WA'  name='Busselton TAB'  /> 
+<!-- 115 --><marker lat="-28.798483" lng="114.619964" category="SL2" address='107 Brand Highway  Geraldton  WA'  name='Geraldton Motor Inn TAB'  /> 
+<!-- 116 --><marker lat="-31.958010" lng="115.872239" category="SL1" address='50 Bennett Street  East Perth  WA'  name='East Perth TAB'  /> 
+<!-- 120 --><marker lat="-32.075365" lng="115.780454" category="SL1" address='330 Carrington Street  Hamilton Hill  WA'  name='Hamilton Tavern TAB'  /> 
+<!-- 121 --><marker lat="-28.884643" lng="121.330647" category="SL3" address='10 Tower Street  Leonora  WA'  name='Central Hotel TAB'  /> 
+<!-- 122 --><marker lat="-29.251559" lng="114.932688" category="SL2" address='12 Moreton Terrace  Dongara  WA'  name='Dongara Hotel Motel TAB'  /> 
+<!-- 123 --><marker lat="-31.903619" lng="115.799975" category="SL1" address='Unit 9, 401 Scarborough Beach Road  Innaloo  WA'  name='Woodlands TAB'  /> 
+<!-- 125 --><marker lat="-32.014539" lng="115.859627" category="SL2" address='27 Manning Road  Como  WA'  name='Mt Henry Tavern TAB'  /> 
+<!-- 128 --><marker lat="-35.026280" lng="117.883896" category="SL1" address='134 York Street  Albany  WA'  name='Albany TAB'  /> 
+<!-- 131 --><marker lat="-31.927129" lng="115.815500" category="SL2" address='33 Herdsman Parade  Wembley  WA'  name='Herdsman Motor Hotel TAB'  /> 
+<!-- 134 --><marker lat="-32.519306" lng="115.730216" category="SL2" address='176 Mandurah Terrace  Mandurah  WA'  name='Silver Sands Tavern TAB'  /> 
+<!-- 139 --><marker lat="-35.001715" lng="117.863286" category="SL2" address='367 Albany Highway  Albany  WA'  name='Amity Tavern TAB'  /> 
+<!-- 140 --><marker lat="-34.239887" lng="116.147053" category="SL2" address='67 Giblett Street  Manjimup  WA'  name='Manjimup Hotel TAB'  /> 
+<!-- 142 --><marker lat="-32.064892" lng="115.858114" category="SL1" address='Stockland S/C, Shop 12 Benningfield Road  Bull Creek  WA'  name='Bull Creek TAB'  /> 
+<!-- 146 --><marker lat="-32.155136" lng="115.770455" category="SL3" address='81 Quill Way  Henderson  WA'  name='Ship and Dock Inn TAB'  /> 
+<!-- 149 --><marker lat="-33.842662" lng="121.904758" category="SL3" address='Lot 2 Cnr Goldfields Road and Phylis Street  Esperance  WA'  name='Esperance Travellers Inn  TAB'  /> 
+<!-- 151 --><marker lat="-31.877748" lng="115.780636" category="SL1" address='200 Karrinyup Road  Karrinyup  WA'  name='Karrinyup Shopping Centre TAB'  /> 
+<!-- 153 --><marker lat="-24.883555" lng="113.656976" category="SL1" address='29 Robinson Street  Carnarvon  WA'  name='Carnarvon Business Centre TAB'  /> 
+<!-- 154 --><marker lat="-32.289191" lng="115.740897" category="SL1" address='1A Chalgrove Avenue  Rockingham  WA'  name='Rockingham Park TAB'  /> 
+<!-- 155 --><marker lat="-32.198857" lng="121.780743" category="SL3" address='90 Roberts Street  Norseman  WA'  name='Norseman Hotel TAB'  /> 
+<!-- 156 --><marker lat="-28.064340" lng="117.848378" category="SL3" address='65 Hepburn Street  Mount Magnet  WA'  name='Grand Hotel TAB'  /> 
+<!-- 157 --><marker lat="-33.360411" lng="116.152831" category="SL3" address='119 Throssell St, Collie WA 6225'  name='Victoria Hotel'  /> 
+<!-- 159 --><marker lat="-31.231889" lng="119.328737" category="SL3" address='21 Antares Street  Southern Cross  WA'  name='The Club Hotel TAB'  /> 
+<!-- 161 --><marker lat="-24.888305" lng="113.656439" category="SL3" address='121 Olivia Terrace  Carnarvon  WA'  name='Carnarvon Hotel TAB'  /> 
+<!-- 163 --><marker lat="-32.292547" lng="115.710207" category="SL2" address='Safety Bay Road  Shoalwater  WA'  name='George and Dragon Tavern TAB'  />
+<!-- 164 --><marker lat="-28.776959" lng="114.605780" category="SL2" address='19 Gregory Street  Geraldton  WA'  name='Geraldton Hotel TAB'  />
+<!-- 165 --><marker lat="-34.960343" lng="117.356209" category="SL3" address='36 Hollings Road  Denmark  WA'  name='Denmark Hotel TAB'  />
+<!-- 166 --><marker lat="-28.774580" lng="114.608441" category="SL2" address='159 Marine Terrace  Geraldton  WA'  name='Mercantile Club Geraldton TAB'  />
+<!-- 167 --><marker lat="-32.058372" lng="115.881568" category="SL1" address='71 Pine Tree Gully Road  Willetton  WA'  name='Southlands Shopping Centre TAB'  />
+<!-- 168 --><marker lat="-31.179697" lng="117.380441" category="SL3" address='35 Railway Terrace Wyalkatchem WA'  name='Wyalkatchem Hotel TAB'  />
+<!-- 170 --><marker lat="-33.949848" lng="115.073863" category="SL2" address='114 Bussell Highway  Margaret River  WA'  name='Settlers Tavern TAB'  />
+<!-- 171 --><marker lat="-33.832565" lng="116.388280" category="SL3" address='74 Abel Street  Boyup Brook  WA'  name='Boyup Brook Hotel TAB'  />
+<!-- 172 --><marker lat="-20.308830" lng="118.610200" category="SL1" address='Cnr Lukis and Mcgregor Street  Port Hedland  WA'  name='All Seasons Port Hedland TAB'  />
+<!-- 173 --><marker lat="-34.316696" lng="115.160343" category="SL3" address='56 Blackwood Avenue  Augusta  WA'  name='Augusta Hotel Motel TAB'  />
+<!-- 176 --><marker lat="-32.116093" lng="115.783098" category="SL2" address='432 Rockingham Road  Spearwood  WA'  name='Spearwood Tavern TAB'  />
+<!-- 178 --><marker lat="-17.963465" lng="122.237749" category="SL1" address='Louis Street  Broome  WA'  name='Broome TAB'  />
+<!-- 179 --><marker lat="-20.408949" lng="118.600029" category="SL1" address='14 Throssel Road  South Hedland  WA'  name='South Hedland TAB'  />
+<!-- 180 --><marker lat="-31.751489" lng="115.802690" category="SL1" address='957 Wanneroo Road, Wanneroo'  name='Wanneroo TAB'  />
+<!-- 181 --><marker lat="-31.549849" lng="116.467308" category="SL2" address='116 Stirling Terrace  Toodyay  WA'  name='Victoria Hotel TAB'  />
+<!-- 182 --><marker lat="-27.710297" lng="114.165383" category="SL3" address='50 Grey Street  Kalbarri  WA'  name='Kalbarri Motor Hotel TAB'  />
+<!-- 183 --><marker lat="-32.582453" lng="115.661418" category="SL2" address='627 Old Coast Road Falcon WA'  name='Cobblers Tavern'  />
+<!-- 184 --><marker lat="-31.835702" lng="115.783624" category="SL1" address='201 Warwick Road  Duncraig  WA'  name='Glengarry TAB'  />
+<!-- 186 --><marker lat="-20.654992" lng="116.714377" category="SL2" address='1 Neilson Place  Dampier  WA'  name='Mermaid Dampier TAB'  />
+<!-- 189 --><marker lat="-31.885556" lng="116.040773" category="SL2" address='305 Morrison Road  Swan View  WA'  name='Pig and Whistle TAB'  />
+<!-- 193 --><marker lat="-31.9383395" lng="115.9300909" category="SL3" address='287 Great Eastern Highway  Belmont  WA'  name='Bel Eyre Tavern TAB'  />
+<!-- 194 --><marker lat="-21.639264" lng="116.324685" category="SL3" address='Pannawonica Drive  Pannawonica  WA'  name='Pannawonica Tavern TAB'  />
+<!-- 195 --><marker lat="-31.960146" lng="115.898035" category="SL2" address='201 Great Eastern Highway  Burswood  WA'  name='Crown Perth TAB'  />
+<!-- 197 --><marker lat="-33.359553" lng="115.642974" category="SL2" address='Cnr Brittain Rd and Bussell Highway  Bunbury  WA'  name='The Parks Tavern TAB'  />
+<!-- 198 --><marker lat="-31.671161" lng="116.030677" category="SL3" address='2543 Great Northern Highway  Bullsbrook  WA'  name='Chequers Hotel TAB'  />
+<!-- 200 --><marker lat="-31.857192" lng="115.836775" category="SL3" address='92 Princess Road  Balga  WA'  name='Princess Road Tavern TAB'  />
+<!-- 204 --><marker lat="-30.893736" lng="116.717918" category="SL3" address='5 Fenton Place  Wongan Hills  WA'  name='Wongan Hills Hotel TAB'  />
+<!-- 205 --><marker lat="-30.304798" lng="115.037970" category="SL3" address='5 White Street  Jurien Bay  WA'  name='Jurien Bay Hotel Motel TAB'  />
+<!-- 206 --><marker lat="-31.807378" lng="115.789117" category="SL1" address='90 Kingsley Drive  Kingsley  WA'  name='Kingsley Tavern TAB'  />
+<!-- 208 --><marker lat="-31.012823" lng="115.328722" category="SL3" address='58 Gingin Road  Lancelin  WA'  name='Endeavour Tavern TAB'  />
+<!-- 211 --><marker lat="-32.235103" lng="115.806673" category="SL2" address='23 Pace Road  Medina  WA'  name='Pace Road Tavern TAB'  />
+<!-- 214 --><marker lat="-15.775466" lng="128.738801" category="SL2" address='37 Messmate Way  Kununurra  WA'  name='Hotel Kununurra TAB'  />
+<!-- 216 --><marker lat="-31.783943" lng="115.767595" category="SL2" address='111 Eddystone Avenue  Craigie  WA'  name='Craigie Tavern TAB'  />
+<!-- 217 --><marker lat="-31.841836" lng="115.860131" category="SL2" address='38 Koondoola Avenue  Koondoola  WA'  name='Burbridge Tavern TAB'  />
+<!-- 219 --><marker lat="-31.861849" lng="115.889883" category="SL2" address='338 Victoria Road  Malaga  WA'  name='Malaga Tavern TAB'  />
+<!-- 218 --><marker lat="-31.826814" lng="115.877813" category="SL3" address='322 Alexander Drive Ballajura WA'  name='The Alexander Bar and Bistro TAB'  />
+<!-- 220 --><marker lat="-32.294497" lng="115.985820" category="SL3" address='32 Paterson Road  Mundijong  WA'  name='Mundijong Tavern TAB'  />
+<!-- 221 --><marker lat="-32.518582" lng="115.971164" category="SL3" address='4224 South Western Highway  North Dandalup  WA'  name='Stud Country Tavern TAB'  />
+<!-- 222 --><marker lat="-31.865968" lng="115.807839" category="SL2" address='51 Erindale Road  Balcatta  WA'  name='Odin Tavern TAB'  />
+<!-- 223 --><marker lat="-32.222059" lng="116.008425" category="SL2" address='881 South West Highway  Byford  WA'  name='Byford Tavern TAB'  />
+<!-- 225 --><marker lat="-32.101444" lng="115.801692" category="SL2" address='Lot 100 Port Kembla Drive  Bibra Lake  WA'  name='Stock Road Markets Tavern TAB'  />
+<!-- 226 --><marker lat="-32.043404" lng="115.941853" category="SL2" address='72 Langford Avenue  Langford  WA'  name='Langford Ale House TAB'  />
+<!-- 228 --><marker lat="-33.572830" lng="115.824185" category="SL3" address='64 South West Highway  Donnybrook  WA'  name='Donnybrook Hotel TAB'  />
+<!-- 229 --><marker lat="-33.305066" lng="115.701999" category="SL2" address='Lot 10 Old Coast Road  Australind  WA'  name='Collie Bridge Tavern TAB'  />
+<!-- 232 --><marker lat="-32.550145" lng="115.701844" category="SL2" address='8 Guava Way  Halls Head  WA'  name='Peel Alehouse TAB'  />
+<!-- 233 --><marker lat="-32.050998" lng="115.976732" category="SL2" address='39 Attfield Street  Maddington  WA'  name='Attfield Tavern TAB'  />
+<!-- 234 --><marker lat="-27.917600" lng="120.698568" category="SL3" address='Lot 402 Mainsbridge Street  Leinster  WA'  name='Gold N Nickel Bar and Bistro TAB'  />
+<!-- 237 --><marker lat="-33.029035" lng="116.880516" category="SL3" address='Lot 26 Albany Highway Williams  WA'  name='Williams Hotel TAB'  />
+<!-- 238 --><marker lat="-31.783231" lng="115.788034" category="SL2" address='143 Trappers Drive  Woodvale  WA'  name='Woodvale Tavern TAB'  />
+<!-- 240 --><marker lat="-34.975649" lng="116.727333" category="SL3" address='South Coast Highway  Walpole  WA'  name='Walpole Hotel-Motel TAB'  />
+<!-- 243 --><marker lat="-33.551963" lng="115.563833" category="SL3" address='96 Capel Drive  Capel  WA'  name='Capel Tavern TAB'  />
+<!-- 244 --><marker lat="-25.927842" lng="113.534131" category="SL3" address='43 Knight Terrace  Denham  WA'  name='Shark Bay Hotel-Motel TAB'  />
+<!-- 245 --><marker lat="-29.944392" lng="114.980367" category="SL3" address='Rudduck Street  Leeman  WA'  name='Leeman Country and Sporting Club TAB'  />
+<!-- 246 --><marker lat="-32.532631" lng="117.083809" category="SL3" address='Quadrant Street  Pingelly  WA'  name='Pingelly Hotel TAB'  />
+<!-- 247 --><marker lat="-31.903710" lng="116.204801" category="SL2" address='10860 Great Eastern Highway  Sawyers Valley  WA'  name='Sawyers Valley Tavern TAB'  />
+<!-- 248 --><marker lat="-28.625505" lng="122.405505" category="SL3" address='2 Laver Place  Laverton  WA'  name='Desert Inn Hotel TAB'  />
+<!-- 253 --><marker lat="-32.585503" lng="115.827162" category="SL2" address='Lot 65 Lloyd Avenue Ravenswood  WA'  name='Ravenswood Hotel TAB'  />
+<!-- 258 --><marker lat="-17.934693" lng="122.213512" category="SL2" address='12 Cable Beach Road  Broome  WA'  name='Divers Tavern TAB'  />
+<!-- 260 --><marker lat="-31.888854" lng="115.767102" category="SL2" address='75 Deanmore Road  Scarborough  WA'  name='Scarborough Sportsmens Club TAB'  />
+<!-- 261 --><marker lat="-31.989951" lng="115.753004" category="SL3" address='Cnr Marine Pde and Eric Street  Cottesloe  WA'  name='Ocean Beach Hotel TAB'  />
+<!-- 263 --><marker lat="-32.071156" lng="115.895075" category="SL2" address='280 Bannister Road  Canning Vale  WA'  name='Market City Tavern TAB'  />
+<!-- 264 --><marker lat="-34.444335" lng="116.035827" category="SL3" address='Brockman Street  Pemberton  WA'  name='Pemberton Best Western Hotel TAB'  />
+<!-- 266 --><marker lat="-32.844278" lng="115.921254" category="SL3" address='16 Fouracre Street  Waroona  WA'  name='Waroona Hotel TAB'  />
+<!-- 269 --><marker lat="-21.928833" lng="114.125912" category="SL2" address='Murat Road  Exmouth  WA'  name='Potshot Hotel Resort TAB'  />
+<!-- 270 --><marker lat="-30.954977" lng="121.163545" category="SL3" address='73 Bayley Street  Coolgardie  WA'  name='Denver City Hotel TAB'  />
+<!-- 272 --><marker lat="-33.646773" lng="115.344804" category="SL2" address='Lot 1 Marine Terrace  Busselton  WA'  name='Esplanade Hotel TAB'  />
+<!-- 273 --><marker lat="-32.068128" lng="115.818268" category="SL2" address='17 South Street  Kardinya  WA'  name='Kardinya Tavern TAB'  />
+<!-- 276 --><marker lat="-32.068642" lng="115.982510" category="SL2" address='70 Blanche Street  Gosnells  WA'  name='Southern River Tavern TAB'  />
+<!-- 277 --><marker lat="-31.777057" lng="115.755735" category="SL2" address='Cnr Marmion Ave and Gunter Grove  Beldon  WA'  name='Beldon Tavern TAB'  />
+<!-- 278 --><marker lat="-31.495244" lng="115.585858" category="SL3" address='50 Enterprise Ave, Two Rocks WA 6033'  name='Tavern at the Rocks'  />
+<!-- 281 --><marker lat="-31.744326" lng="115.764956" category="SL1" address='Shop E6 Joondalup Drive  Joondalup  WA'  name='Lakeside Shopping City TAB'  />
+<!-- 282 --><marker lat="-28.350231" lng="114.631546" category="SL2" address='220 Hampton Road  Northampton  WA'  name='Northampton Motor Hotel TAB'  />
+<!-- 286 --><marker lat="-31.544326" lng="115.683446" category="SL3" address='Yanchep National Park  Yanchep  WA'  name='Yanchep Inn TAB'  />
+<!-- 288 --><marker lat="-29.274280" lng="114.921460" category="SL3" address='60 Point Leander Drive  Port Denison  WA'  name='Southerlys Harbour View Bar TAB'  />
+<!-- 291 --><marker lat="-31.845436" lng="115.787519" category="SL2" address='493 Beach Road  Duncraig  WA'  name='The Carine TAB'  />
+<!-- 293 --><marker lat="-32.330567" lng="117.873752" category="SL3" address='17 Walton Street  Corrigin  WA'  name='Corrigin Hotel TAB'  />
+<!-- 294 --><marker lat="-32.366740" lng="115.755300" category="SL2" address='379 Warnbro Sound Avenue  Port Kennedy  WA'  name='Port Kennedy Tavern TAB'  />
+<!-- 296 --><marker lat="-22.694397" lng="117.795335" category="SL2" address='Central Road  Tom Price  WA'  name='Tom Price Hotel Motel TAB'  />
+<!-- 297 --><marker lat="-32.231425" lng="115.870174" category="SL2" address='34 Marri Park Drive  Casuarina  WA'  name='Marri Park Tavern TAB'  />
+<!-- 298 --><marker lat="-32.056245" lng="115.749893" category="SL3" address='1 Parry St, Fremantle, WA'  name='South Fremantle Football Club'  />
+<!-- 299 --><marker lat="-32.106615" lng="115.827226" category="SL1" address='Lot 101 North Lake Road  South Lake  WA'  name='Lakes Shopping Centre TAB'  />
+<!-- 302 --><marker lat="-31.350899" lng="116.114531" category="SL3" address='6626 Great Northern Highway Bindoon WA'  name='The Scottalian TAB'  />
+<!-- 305 --><marker lat="-32.802868" lng="116.473885" category="SL3" address='40-50 Bannister Road  Boddington  WA'  name='Boddington Hotel TAB'  />
+<!-- 307 --><marker lat="-31.979286" lng="115.804500" category="SL3" address='80 Stirling Highway Nedlands  WA  6009'  name='Captain Stirling Hotel TAB'  />
+<!-- 308 --><marker lat="-30.277896" lng="116.662187" category="SL3" address='19 Johnston Street  Dalwallinu  WA'  name='Dalwallinu Hotel Motel TAB'  />
+<!-- 309 --><marker lat="-20.738997" lng="116.828886" category="SL2" address='Lot 2603 Bond Place  Karratha  WA'  name='Karratha Tavern TAB'  />
+<!-- 312 --><marker lat="-32.585187" lng="115.794149" category="SL2" address='146 South Yunderup Road  South Yunderup WA'  name='Sandy Cove Tavern TAB'  />
+<!-- 313 --><marker lat="-32.053494" lng="116.002112" category="SL3" address='Sheoak Road  Maddington  WA'  name='Maddington Tavern TAB'  />
+<!-- 314 --><marker lat="-20.376713" lng="118.635005" category="SL2" address='North West Coastal Highway  Port Hedland  WA'  name='Walkabout Hotel TAB'  />
+<!-- 316 --><marker lat="-31.946995" lng="115.939954" category="SL2" address='44 Belvidere Street  Belmont  WA'  name='Belvideres Bars Bistro TAB'  />
+<!-- 317 --><marker lat="-31.818556" lng="115.821540" category="SL1" address='Cnr Hepburn Ave and Wanneroo Road  Madeley  WA'  name='Kingsway City Shopping Centre TAB'  />
+<!-- 318 --><marker lat="-32.069147" lng="115.951777" category="SL1" address='Shop 10, 101 Forest Lakes Drive, Thornlie  WA'  name='Forest Lakes Shop Centre TAB'  />
+<!-- 321 --><marker lat="-31.677644" lng="115.711993" category="SL1" address='4 Bergen Way  Mindarie  WA'  name='Mindarie Commercial Centre TAB'  />
+<!-- 323 --><marker lat="-31.873439" lng="115.828793" category="SL2" address='201 Amelia Street  Balcatta  WA'  name='Northlands Tavern TAB'  />
+<!-- 325 --><marker lat="-32.668127" lng="115.649680" category="SL3" address='21-23 Park Ridge Drive  Bouvard  WA'  name='Bouvard Tavern TAB'  />
+<!-- 331 --><marker lat="-30.744242" lng="121.464495" category="SL2" address='164 Piccadilly Street  Kalgoorlie  WA'  name='Piccadilly Hotel TAB'  />
+<!-- 332 --><marker lat="-30.782077" lng="121.483941" category="SL3" address='140 Burt Street  Boulder  WA'  name='Recreation Hotel TAB'  />
+<!-- 333 --><marker lat="-30.753421" lng="121.472171" category="SL2" address='75 Cheetham Street  Kalgoorlie  WA'  name='Gala Tavern TAB'  />
+<!-- 336 --><marker lat="-32.107874" lng="116.927189" category="SL3" address='104 Vincent Street  Beverley  WA'  name='Freemasons Tavern TAB'  />
+<!-- 338 --><marker lat="-32.469662" lng="115.747919" category="SL2" address='1 Madora Beach Road  Madora Bay  WA'  name='Madora Bay Tavern TAB'  />
+<!-- 339 --><marker lat="-32.100539" lng="115.783790" category="SL3" address='300 Rockingham Road  Spearwood  WA'  name='Cockburn Bowling and Rec. Club TAB'  />
+<!-- 342 --><marker lat="-31.906843" lng="115.810639" category="SL3" address='444 Scarborough Beach Road  Osborne Park  WA'  name='Ops Tavern TAB'  />
+<!-- 345 --><marker lat="-31.930147" lng="115.945479" category="SL2" address='431 Great Eastern Highway  Redcliffe  WA'  name='Redcliffe Tavern TAB'  />
+<!-- 346 --><marker lat="-32.089410" lng="115.999467" category="SL2" address='292 Corfield Street  Gosnells  WA'  name='Corfield Tavern TAB'  />
+<!-- 347 --><marker lat="-33.581916" lng="120.046743" category="SL3" address='28 Morgans Street  Ravensthorpe  WA'  name='Palace Motor Hotel TAB'  />
+<!-- 349 --><marker lat="-32.177800" lng="115.794385" category="SL2" address='1048 Rockingham Road  Wattleup  WA'  name='Ten Mile Well Tavern TAB'  />
+<!-- 351 --><marker lat="-33.480757" lng="115.731396" category="SL3" address='104 Bridge Street  Boyanup  WA'  name='The Bull And Bush TAB'  />
+<!-- 353 --><marker lat="-21.930278" lng="114.125060" category="SL3" address='26 Payne Street  Exmouth  WA'  name='Truscott Memorial Club TAB'  />
+<!-- 354 --><marker lat="-21.639827" lng="115.114982" category="SL2" address='22 Second Avenue  Onslow  WA'  name='Beadon Bay Hotel TAB'  />
+<!-- 355 --><marker lat="-31.900796" lng="115.842697" category="SL2" address='112 Wanneroo Road  Tuart Hill  WA'  name='Mighty Quinn TAB'  />
+<!-- 356 --><marker lat="-32.288631" lng="115.741985" category="SL3" address='1 Chalgrove Avenue  Rockingham  WA'  name='Leisure Inn Hotel TAB'  />
+<!-- 357 --><marker lat="-33.617152" lng="115.106629" category="SL2" address='Naturaliste Terrace  Dunsborough  WA'  name='Dunsborough Tavern TAB'  />
+<!-- 358 --><marker lat="-34.202077" lng="115.098781" category="SL3" address='Bussell Highway  Karridale  WA'  name='Karridale Tavern TAB'  />
+<!-- 359 --><marker lat="-32.111095" lng="115.839629" category="SL2" address='758 Berrigan Drive  South Lake  WA'  name='Fitzys Lakeside TAB'  />
+<!-- 362 --><marker lat="-31.958042" lng="115.871268" category="SL3" address='248 Hay Street  East Perth  WA'  name='Carlton Hotel TAB'  />
+<!-- 369 --><marker lat="-23.357759" lng="119.728381" category="SL2" address='Newman Drive  Newman  WA'  name='Newman Hotel Motel TAB'  />
+<!-- 370 --><marker lat="-30.639352" lng="116.007460" category="SL3" address='Dandaragan Street  Moora  WA'  name='Drovers Inn TAB'  />
+<!-- 374 --><marker lat="-32.078547" lng="115.761512" category="SL3" address='2 Cockburn Road  South Fremantle  WA'  name='Edz Sportz Bar TAB'  />
+<!-- 375 --><marker lat="-32.062259" lng="115.757424" category="SL2" address='73 Wray Avenue  Fremantle  WA'  name='Moondyne Joes Hotel and Cafe TAB'  />
+<!-- 382 --><marker lat="-20.313323" lng="118.575498" category="SL2" address='25 The Esplanade  Port Hedland  WA'  name='Pier Hotel TAB'  />
+<!-- 384 --><marker lat="-31.901507" lng="115.778387" category="SL2" address='17 Shearn Crescent  Doubleview  WA'  name='Doubleview Bowling Club TAB'  />
+<!-- 385 --><marker lat="-31.670859" lng="115.715743" category="SL2" address='36 Baltimore Parade  Merriwa  WA'  name='The Sixty30'  />
+<!-- 388 --><marker lat="-32.275572" lng="115.731111" category="SL2" address='26 Kent Street  Rockingham  WA'  name='Rockingham Hotel TAB'  />
+<!-- 392 --><marker lat="-20.408904" lng="118.600072" category="SL2" address='Throssel Road  South Hedland  WA'  name='Last Chance Tavern TAB'  />
+<!-- 393 --><marker lat="-32.035546" lng="115.785062" category="SL2" address='326 Canning Highway Bicton WA'  name='Leopold Hotel TAB'  />
+<!-- 394 --><marker lat="-33.309599" lng="117.344568" category="SL3" address='Tavistock Street  Wagin  WA'  name='Wagin District Club TAB'  />
+<!-- 396 --><marker lat="-31.895062" lng="115.944562" category="SL2" address='77 Walter Road  Bassendean  WA'  name='Ambassador Tavern TAB'  />
+<!-- 402 --><marker lat="-33.977193" lng="115.764441" category="SL3" address='12 Warren Road  Nannup  WA'  name='Nannup Hotel TAB' />
+<!-- 404 --><marker lat="-32.585354" lng="115.659132" category="SL1" address='Unit 4, 651-699 Old Coast Road  Falcon  WA'  name='Falcon TAB'  />
+<!-- 408 --><marker lat="-31.897876" lng="115.880731" category="SL2" address='302 The Strand  Dianella  WA'  name='Dianella Tavern TAB'  />
+<!-- 409 --><marker lat="-32.037175" lng="115.751277" category="SL3" address='44 Tydeman Road  North Fremantle  WA'  name='Railway Hotel TAB'  />
+<!-- 410 --><marker lat="-33.358464" lng="116.152964" category="SL2" address='86 Forrest Street  Collie  WA'  name='Premier Hotel TAB'  />
+<!-- 411 --><marker lat="-32.072838" lng="115.753229" category="SL3" address='396 South Terrace  South Fremantle  WA'  name='South Beach Hotel TAB'  />
+<!-- 412 --><marker lat="-17.303443" lng="123.626511" category="SL2" address='Clarendon Street  Derby  WA'  name='Spinifex Hotel TAB'  />
+<!-- 415 --><marker lat="-30.745510" lng="121.474794" category="SL2" address='117 Hannan Street  Kalgoorlie  WA'  name='Criterion Hotel TAB'  />
+<!-- 418 --><marker lat="-32.627692" lng="115.878252" category="SL2" address='1 Williams Road  Pinjarra  WA'  name='Premier Hotel TAB'  />
+<!-- 419 --><marker lat="-35.022774" lng="117.883638" category="SL2" address='244 York Street  Albany  WA'  name='Albany Hotel TAB'  />
+<!-- 420 --><marker lat="-33.861417" lng="121.893696" category="SL2" address='The Esplanade  Esperance  WA'  name='Pier Hotel TAB'  />
+<!-- 421 --><marker lat="-33.861774" lng="121.892108" category="SL2" address='14 Andrew Street  Esperance  WA'  name='Esperance Motor-Hotel TAB'  />
+<!-- 422 --><marker lat="-33.322782" lng="115.636972" category="SL3" address='36 Victoria Street  Bunbury  WA'  name='Trafalgars Hotel TAB'  />
+<!-- 427 --><marker lat="-28.772793" lng="114.610565" category="SL1" address='20 Durlacher Street  Geraldton  WA'  name='Geraldton TAB'  />
+<!-- 428 --><marker lat="-32.295494" lng="115.761995" category="SL2" address='Lot 504 Ennis Avenue  Cooloongup  WA'  name='Nags Head Tavern TAB'  />
+<!-- 430 --><marker lat="-33.313602" lng="115.705475" category="SL2" address='Pratt Road  Eaton  WA'  name='Eaton Bowling And Social Club TAB'  />
+<!-- 431 --><marker lat="-31.477262" lng="118.278261" category="SL3" address='58 Bates Street  Merredin  WA'  name='Northside Tavern TAB'  />
+<!-- 432 --><marker lat="-31.747127" lng="116.459777" category="SL3" address='340 Great Eastern Highway  Bakers Hill  WA'  name='Bakers Hill Tavern TAB'  />
+<!-- 433 --><marker lat="-31.770939" lng="116.240684" category="SL3" address='2672 Toodyay Road, Gidgegannup WA 6083'  name='Noble Falls Tavern'  />
+<!-- 435 --><marker lat="-31.658605" lng="116.665577" category="SL2" address='190 Fitzgerald Street  Northam  WA'  name='Commercial Hotel TAB'  />
+<!-- 438 --><marker lat="-32.934280" lng="117.178974" category="SL2" address='61 Federal Street  Narrogin  WA'  name='Hordern Hotel TAB'  />
+<!-- 439 --><marker lat="-31.934135" lng="115.894914" category="SL2" address='Shop 1, 32 East Street  Maylands  WA'  name='C Jays Tavern  TAB'  />
+<!-- 440 --><marker lat="-31.897462" lng="115.982258" category="SL2" address='50 East Street  Guildford  WA'  name='Woodbridge Hotel TAB'  />
+<!-- 443 --><marker lat="-31.916752" lng="115.848212" category="SL2" address='509 Charles Street  North Perth  WA'  name='Charles Hotel TAB'  />
+<!-- 444 --><marker lat="-32.029780" lng="115.817162" category="SL3" address='592 Canning Highway  Alfred Cove  WA'  name='Melville Bowling Club TAB'  />
+<!-- 445 --><marker lat="-33.326297" lng="115.638474" category="SL2" address='41 Stephens Street  Bunbury  WA'  name='Prince Of Wales Hotel TAB'  />
+<!-- 449 --><marker lat="-33.690084" lng="117.555921" category="SL2" address='111 Clive Street  Katanning  WA'  name='Federal Hotel TAB'  />
+<!-- 450 --><marker lat="-32.534232" lng="115.722180" category="SL2" address='Peel S/Centre, 40-44 Pinjarra Road  Mandurah  WA'  name='Boathouse Tavern TAB'  />
+<!-- 454 --><marker lat="-32.090141" lng="115.943575" category="SL2" address='7 Holmes Street  Southern River  WA'  name='Brooklands Tavern TAB'  />
+<!-- 455 --><marker lat="-32.087501" lng="115.917563" category="SL1" address='30-34 Ranford Road  Canning Vale  WA'  name='Canning Vale TAB'  />
+<!-- 456 --><marker lat="-30.746354" lng="121.475256" category="SL3" address='80 Egan Street  Kalgoorlie  WA'  name='Goldfield Tattersalls Club Inc TAB'  />
+<!-- 457 --><marker lat="-33.319914" lng="115.715464" category="SL2" address='1 Albatross Crescent  Eaton  WA'  name='Eaton Tavern TAB'  />
+<!-- 458 --><marker lat="-34.631000" lng="116.123728" category="SL3" address='Lot 7 Wheatley Coast Road  Northcliffe  WA'  name='Northcliffe Hotel TAB'  />
+<!-- 464 --><marker lat="-32.131794" lng="115.854880" category="SL2" address='816 Beeliar Drive  Success  WA'  name='The Gate Bar and Bistro TAB'  />
+<!-- 467 --><marker lat="-17.308498" lng="123.638200" category="SL3" address='100 Loch Street  Derby  WA'  name='Derby Boab Inn TAB'  />
+<!-- 468 --><marker lat="-20.303326" lng="118.632457" category="SL3" address='9 Keesing Street  Port Hedland  WA'  name='Cooke Point Recreation Club TAB'  />
+<!-- 469 --><marker lat="-32.108686" lng="116.128149" category="SL3" address='1360 Brookton Highway  Karragullen  WA'  name='Paddys Bush Bar and Grill'  />
+<!-- 472 --><marker lat="-29.210387" lng="116.011033" category="SL3" address='Solomon Terrace  Morawa  WA'  name='Morawa Hotel TAB'  />
+<!-- 477 --><marker lat="-32.115816" lng="115.916066" category="SL3" address='625 Warton Road  Piara Waters  WA'  name='C Y Oconnor Village Pub TAB'  />
+<!-- 481 --><marker lat="-32.527624" lng="115.740789" category="SL3" address='87 Allnutt Street  Mandurah  WA'  name='Mandurah Bowling and Rec Club TAB'  />
+<!-- 482 --><marker lat="-32.539821" lng="115.728811" category="SL3" address='28 Eden Street  Dudley Park  WA'  name='Dudley Park Bowling and Rec Club TAB'  />
+<!-- 484 --><marker lat="-31.750628" lng="115.803907" category="SL3" address='18 Dundebar Road  Wanneroo  WA'  name='Wanneroo Tavern'  />
+<!-- 485 --><marker lat="-33.111839" lng="115.881155" category="SL3" address='67 South West Highway  Wokalup  WA'  name='Wokalup Tavern TAB'  />
+<!-- 486 --><marker lat="-32.066674" lng="115.932328" category="SL3" address='507 Nicholson Road  Canning Vale  WA'  name='Last Drop Pub and Brewery TAB'  />
+<!-- 487 --><marker lat="-32.333114" lng="115.814051" category="SL2" address='13 Settlers Avenue  Baldivis  WA'  name='The Chase Bar and Bistro TAB'  />
+<!-- 489 --><marker lat="-31.204774" lng="121.667224" category="SL3" address='Town Square  Kambalda East  WA'  name='Kambalda Club TAB'  />
+<!-- 492 --><marker lat="-31.969720" lng="115.943087" category="SL3" address='400 Abernethy Road  Cloverdale  WA'  name='Belmont Sports and Rec Club TAB'  />
+<!-- 500 --><marker lat="-31.741874" lng="115.768926" category="SL3" address='20 Reid Promenade Joondalup WA'  name='Bailey Bar and Bistro'  />
+<!-- 502 --><marker lat="-32.008931" lng="115.769591" category="SL3" address='39 Bay View Terrace  Mosman Park  WA'  name='Mosman Park Bowling Club TAB'  />
+<!-- 503 --><marker lat="-31.660102" lng="116.663453" category="SL3" address='75 Fitzgerald Street  Northam  WA'  name='Northam Tavern TAB'  />
+<!-- 505 --><marker lat="-31.350860" lng="115.904109" category="SL3" address='5 Jones Street  Gingin  WA'  name='Gingin Hotel TAB'  />
+<!-- 507 --><marker lat="-31.878195" lng="115.894238" category="SL3" address='85 McGilvray Avenue  Noranda  WA'  name='Morley/Noranda Rec Club TAB'  />
+<!-- 509 --><marker lat="-31.935508" lng="116.004225" category="SL1" address='530 Kalamunda Road  High Wycombe  WA'  name='High Wycombe Village Centre TAB'  />
+<!-- 513 --><marker lat="-23.357476" lng="119.731645" category="SL3" address='Lot 1982 Newman Drive  Newman  WA'  name='Red Sands Tavern TAB'  />
+<!-- 515 --><marker lat="-31.894574" lng="115.831877" category="SL3" address='31 Park Street  Tuart Hill  WA'  name='Osborne Park Bowling Club TAB'  />
+<!-- 516 --><marker lat="-31.887109" lng="115.793312" category="SL3" address='75 Birdwood Street  Innaloo  WA'  name='Innaloo Sportsmens Club TAB'  />
+<!-- 518 --><marker lat="-33.652025" lng="115.345181" category="SL3" address='117 Queen Street  Busselton  WA'  name='Albies Bar and Bistro TAB'  />
+<!-- 519 --><marker lat="-35.023973" lng="117.883666" category="SL3" address='208 York Street  Albany  WA'  name='Ryans Premier Hotel TAB'  />
+<!-- 521 --><marker lat="-31.935260" lng="116.003978" category="SL3" address='530 Kalamunda Road  High Wycombe  WA'  name='High Wycombe Tavern TAB'  />
+<!-- 522 --><marker lat="-32.119135" lng="116.002005" category="SL3" address='127 Westfield Road  Camillo  WA'  name='Champion Lakes Tavern TAB'  />
+<!-- 523 --><marker lat="-31.996159" lng="115.539703" category="SL3" address='Bovell Street  Rottnest Island  WA'  name='Rottnest Lodge TAB'  />
+<!-- 525 --><marker lat="-26.591189" lng="118.496958" category="SL3" address='Main Street  Meekatharra  WA'  name='Royal Mail Hotel TAB'  />
+<!-- 526 --><marker lat="-31.922043" lng="115.839846" category="SL3" address='141 Scarborough Beach Road  Mount Hawthorn  WA'  name='Paddington Ale House TAB'  />  
+<!-- 532 --><marker lat="-31.781741" lng="115.967691" category="SL2" address='11 Main Street  Ellenbrook  WA'  name='The Brook Bar and Bistro TAB'  />
+<!-- 533 --><marker lat="-20.734502" lng="116.848697" category="SL3" address='35 Searipple Road  Karratha  WA'  name='Karratha Sporting and Rec Club TAB'  />
+<!-- 534 --><marker lat="-32.835802" lng="115.918298" category="SL3" address='8229 South West Highway  Waroona WA'  name='Drakesbrook Hotel-Motel TAB'  />
+<!-- 535 --><marker lat="-31.917220" lng="115.890355" category="SL2" address='981 Beaufort Street  Inglewood  WA'  name='Civic Hotel TAB'  />
+<!-- 537 --><marker lat="-31.812617" lng="115.843781" category="SL2" address='213 Kingsway  Darch  WA'  name='Kingsway Bar and Bistro TAB'  />
+<!-- 541 --><marker lat="-31.864352" lng="115.758433" category="SL3" address='7 Kitchener Street  North Beach  WA'  name='North Beach Bowling Club TAB'  />
+<!-- 548 --><marker lat="-31.755439" lng="115.802024" category="SL3" address='Crisafulli Avenue Wanneroo WA'  name='Wanneroo Sports and Social Club TAB'  />
+<!-- 551 --><marker lat="-31.796997" lng="115.752692" category="SL3" address='Shop 66, Whitford City Shopping Ctr Hillarys WA'  name='Northshore Tavern and Bistro'  />  
+<!-- 552 --><marker lat="-31.672247" lng="115.705153" category="SL3" address='17 Tapping Way  Quinns Rocks WA'  name='Quinns Rocks TAB'  />
+<!-- 553 --><marker lat="-31.649221" lng="115.734942" category="SL3" address='2310 Wanneroo Road  Nowergup WA'  name='Ocean View Tavern TAB'  />
+<!-- 554 --><marker lat="-32.050743" lng="115.966283" category="SL3" address='6 Ravenhill Road  Thornlie WA'  name='Thornlie Bowling Club TAB'  />
+<!-- 555 --><marker lat="-31.940039" lng="115.991396" category="SL2" address='107 Dundas Road High Wycombe WA'  name='Boab Tavern TAB'  />
+<!-- 559 --><marker lat="-23.142867" lng="113.768361" category="SL3" address='1 Robinson Street Coray Bay WA'  name='Ningaloo Reef Resort TAB'  />
+<!-- 561 --><marker lat="-31.966533" lng="115.931528" category="SL3" address='174 Wright Street Belmont WA'  name='Belmont Tavern TAB'  />
+<!-- 562 --><marker lat="-33.336116" lng="115.640331" category="SL3" address='Cnr Spencer Street and Forrest Avenue Bunbury WA'  name='Highway Hotel TAB'  />
+<!-- 563 --><marker lat="-32.069118" lng="115.951755" category="SL3" address='119 Murdoch Road Thornlie WA'  name='Lakers Tavern TAB'  />
+<!-- 565 --><marker lat="-20.742817" lng="116.803954" category="SL3" address='Lot 4227 Tambrey Drive Karratha WA'  name='The Tambrey Centre TAB'  />
+<!-- 566 --><marker lat="-32.068315" lng="115.998832" category="SL3" address='2149 Albany Highway Gosnells WA'  name='Gosnells Hotel TAB'  />
+<!-- 567 --><marker lat="-31.952424" lng="115.857592" category="SL1" address='258-262 Murray Street, Perth, WA'  name='TABtouch Central TAB'  />  
+<!-- 569 --><marker lat="-31.741042" lng="115.739130" category="SL1" address='FS002, 1244 Marmion Avenue Currambine  WA  6028'  name='Currambine TAB'  />
+<!-- 571 --><marker lat="-32.000534" lng="115.917926" category="SL3" address='1120-1124 Albany Highway Bentley WA'  name='Bentley Hotel TAB'  />
+<!-- 572 --><marker lat="-31.947803" lng="115.839865" category="SL1" address='1292 Hay Street West Perth  WA  6005'  name='West Perth TAB'  />
+<!-- 576 --><marker lat="-33.322033" lng="115.636849" category="SL3" address='51 Victoria Street Bunbury WA'  name='Burlington Hotel TAB'  />
+<!-- 577 --><marker lat="-31.838483" lng="115.749833" category="SL3" address='West Coast Drive Marmion WA'  name='Marmion Angling and Aquatic Club TAB'  />
+<!-- 578 --><marker lat="-32.075467" lng="115.780522" category="SL3" address='330 Carrington Street Hamilton Hill WA'  name='Hamilton Tavern TAB'  />
+<!-- 579 --><marker lat="-32.058801" lng="115.881135" category="SL3" address='73 Pinetree Gully Road Willetton WA'  name='Burrendah Tavern TAB'  />
+<!-- 581 --><marker lat="-30.499517" lng="115.069598" category="SL3" address='Aragon Street Cervantes WA 6511'  name='Cervantes Country Club Inc TAB'  />
+<!-- 587 --><marker lat="-33.655309" lng="120.124364" category="SL3" address='279 Hopetoun-Ravensthorpe Road, Hopetoun WA 6348'  name='Wavecrest Bar and Bistro'  />
+<!-- 588 --><marker lat="-32.243605" lng="115.814542" category="SL3" address='1 Chisham Ave Kwinana Town Centre WA 6167'  name='Admiral Tavern'  />
+<!-- 589 --><marker lat="-33.645002" lng="115.031169" category="SL3" address='18 Yallingup Beach Road, Yallingup WA 6282'  name='Yallingup'  />
+<!-- 590 --><marker lat="-31.634356" lng="117.721014" category="SL3" address='Lot 260 Connelly Street Kellerberrin WA 6410'  name='Kellerberrin and Districts Club TAB'  />
+<!-- 591 --><marker lat="-33.958081" lng="116.137701" category="SL3" address='2 Steere Street Bridgetown WA'  name='Freemasons Hotel TAB'  />
+<!-- 621 --><marker lat="-30.754597" lng="121.465068" category="SL3" address='497 Hannan Street, Kalgoorlie WA 6430'  name='Star and Garter Hotel'  />
+<!-- 622 --><marker lat="-31.946289" lng="115.859260" category="SL3" address='84 Aberdeen Street, Northbridge WA 6003'  name='The Game Sports Bar'  />
+<!-- 623 --><marker lat="-31.710543" lng="115.791261" category="SL3" address='2 Innesvale Way, Carramar WA 6031'  name='The Duke Bar and Bistro'  />
+<!-- 625 --><marker lat="-31.836689" lng="115.830186" category="SL3" address='61 Templeton Cresent, Girrawheen WA 6064'  name='Newpark Tavern'  />
+<!-- 626 --><marker lat="-34.625323" lng="117.660447" category="SL3" address='9 Lowood Road, Mount Barket WA 6324'  name='Plantagenet Hotel'  />
+<!-- 627 --><marker lat="-31.875435" lng="115.829842" category="SL1" address='501 Wanneroo Road, Balcatta WA 6021'  name='Seven Mile Inn'  />
+<!-- 627b --><marker lat="-31.875435" lng="115.829900" category="SL3" address='501 Wanneroo Road, Balcatta WA 6021'  name='Seven Mile Inn'  />
+<!-- 631 --><marker lat="-31.948616" lng="115.823333" category="SL3" address='328 Barker Road, Subiaco WA 6008'  name='Paddy Maguires'  />
+<!-- 632 --><marker lat="-32.5282133" lng="115.7163812" category="SL3" address='1 Marco Polo Drive, Mandurah, WA, 6210'  name='The Peninsula Mandurah'  />
+<!-- 633 --><marker lat="-32.289396" lng="115.745081" category="SL3" address='Unit T227, 1 Council Avenue, Rockingham WA 6168'  name='The Sporting Globe Bar and Grill'  />
+<!-- 634 --><marker lat="-33.951195" lng="115.074109" category="SL3" address='125 Bussell Highway, Margatet River WA 6285'  name='Margaret River Hotel'  />
+<!-- 642 --><marker lat="-31.731287" lng="115.803936" category="SL2" address='131 Pinjar Rd, Ashby WA 6065'  name='Ashby Bar and Bistro'  />
+</markers>
+
+
+

@@ -1,0 +1,58 @@
+div.tab-and-track {position: relative;}
+div#content.tab-and-track  {padding: 0;}
+.locationBG {background-size: cover;background-position: 50% 50%;}
+.center {
+    display: inline-block;
+    position: relative;
+    left: 50%;
+    -webkit-transform: translate(-50%, 0%);
+    -moz-transform: translate(-50%, 0%);
+    -ms-transform: translate(-50%, 0%);
+    -o-transform: translate(-50%, 0%);
+    transform: translate(-50%, 0%);
+}
+span.icon {
+    width: 3em;
+    background-position: center;
+    background-size: contain;
+    background-repeat: no-repeat;
+    height: 2.25em;
+    width: 3em;
+    float: left;
+    margin: .25em 0 0 -.5em;
+    padding: 0 0 !important;
+}
+
+span.text {
+    line-height: 3em;
+    display: inline-block;
+    font-size: 1.3em;
+    font-family: 'PFSquareBold','Arial Bold',Arial,Helvetica,sans-serif;
+    color: #fff;
+    padding: 0 0 !important;
+}
+button.gray {background-color: #666;color: #fff;}
+button.redeem {
+    min-width: 100px;
+    font-size: 1.5em;
+}
+img#icon {margin-top:2em;width:5em;}
+p#welcome {
+	font-size:x-large;
+	margin-bottom:0em;
+	color:#333333;
+	margin-top: 0.5em;
+    text-align: center;
+}
+h2#venue {
+    color: #000;
+    text-shadow: none;
+    text-transform: none;
+    font-size: xx-large;
+    line-height: normal;
+}
+.locationBG.ascot {background-image: url('/Content/CMS/images/ascotBG.jpg');}
+.locationBG.bunbury {background-image: url('/Content/CMS/images/bunburyBG.jpg');}
+.locationBG.kalgoorlie {background-image: url('/Content/CMS/images/kalgoorlieBG.jpg');}
+.locationBG.pinjarraharness {background-image: url('/Content/CMS/images/pinjarraTrotsBG.jpg');}
+.locationBG.gloucesterPark {background-image: url('/Content/CMS/images/gloucesterParkBG.jpg');}

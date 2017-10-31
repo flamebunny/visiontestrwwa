@@ -1,0 +1,55 @@
+{
+  "core": [
+    "./Css/bootstrap.css",
+    "./Css/core.css",
+    "./Css/main.css",
+    "./Css/display-list.css",
+    "./Css/gradients.css",
+    "./Css/player.css",
+    "./Css/player-sports.css",
+    "./Css/player-flags.css",
+    "./Css/tab-track.css",
+    "./Css/bet-slip.css",
+    "./Css/landing-page.css",
+    "./Css/locator.css",
+    "./Css/favouritenumbers.css",
+    "./Css/logon.css",
+    "./Css/modal.css",
+    "./Css/bet-wallet.css",
+    "./Css/state.css",
+    "./Css/theme.css",
+    "./Css/iPad.css",
+    "./Css/retina.css"
+  ],
+
+  "ie": [
+    "./Css/ie.css"
+  ],
+
+  "ie7": [
+    "./Css/ie.css"
+  ],
+
+  "ie8down": [
+    "./Css/ie.css"
+  ],
+
+  "racing-radio": [
+    "./Css/RacingRadio/RacingRadio.css",
+    "./Css/RacingRadio/RacingRadioMedia.css"
+  ],
+
+  "vision": [
+    "./Css/Vision/video-popup.css",
+    "./Css/Vision/VisionMenu.css"
+  ],
+
+  "signup": [
+    "./Css/SignUp/jquery.mobile.structure-1.3.2.css",
+    "./Css/SignUp/core-mobile.css",
+    "./Css/SignUp/core-tablet.css",
+    "./Css/SignUp/autocomplete.css",
+    "./Css/SignUp/manual-address.css",
+    "./Css/SignUp/address.css"
+  ]
+}

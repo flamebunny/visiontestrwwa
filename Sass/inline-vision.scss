@@ -1,0 +1,104 @@
+.inline-vision {
+    position: fixed;
+    bottom: 0;
+    width: 200px;
+    height: 108px;
+    overflow: hidden;
+    background: red;
+    z-index: 100;
+    margin: 0px;    
+
+    &.open {
+	
+    }
+	
+	&.left {
+		left: 0%;
+	}
+	
+	&.right {
+		left: calc(100% - 200px);
+	}
+
+    video {
+        width: 100%;
+    }
+
+    &.max {
+        width: 100%;
+        height: 100%;
+        margin: 0;
+    }
+	
+	&.is-animating {
+		transition: all 400ms cubic-bezier( 0, 0.75, 0.5, 1 );
+	}
+	
+	video {
+		position: relative;
+		top: 50%;
+		transform: translateY(-50%);
+	}
+}
+
+
+.channel-btn {
+    width: 50%;
+    height: 20px;
+    color: white;
+}
+
+.vision-commands {
+	box-shadow: 1px 1px 5px rgba(0,0,0,0.5);
+    margin: 0 auto;
+    position: fixed;
+    z-index: 101;
+    bottom: 133px;
+    left: 0;
+    right: 0;
+    width: 300px;
+    background: rgba(255,255,2555,0.8);
+    color: #FFF;
+    width: 100%;
+    table-layout: fixed;
+}
+	.vision-commands td {
+		text-align: center;
+	}
+		.vision-commands td a {
+			color: #333;
+			font-weight: bold;
+			text-decoration: none;
+			display: inline-block;
+			padding: 1em 0;
+			width: 100%;
+			font-size: 1.4em;
+		}		
+		
+
+.vision-end-container {
+	position: fixed;
+    bottom: 0;
+    width: 108px;
+    height: 200px;
+    overflow: hidden;
+    background: none;
+	box-shadow: 0 0 0px 3px magenta inset;
+    z-index: 100;
+    margin: 0px;    
+	
+	&.can-snap {
+		background: rgba(255,0,255,0.3);
+	}
+}
+
+.vision-off-container {
+	position: fixed;
+    bottom: 0;
+    width: 108px;
+    height: 200px;
+    overflow: hidden;
+    background: rgba(0, 0, 255, 0.6);	
+    z-index: 100;
+    margin: 0px;    
+}

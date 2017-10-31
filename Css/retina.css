@@ -1,0 +1,15 @@
+@media (-webkit-min-device-pixel-ratio: 1.5), (min-resolution: 144dpi) {
+  /* Any Retina devices */
+  h1 {
+    background-image: url("../../images/core/logo@2x.png");
+    background-size: 80px 35px; } }
+
+@media only screen and (-webkit-min-device-pixel-ratio: 1.5) and (min-width: 768px), only screen and (min-resolution: 144dpi) and (min-width: 768px) {
+  /* Tablet-sized Retina devices */
+  h1 {
+    background-image: url("../../images/icons/ipad/logo@2x.png");
+    background-size: 160px 70px;
+    /* the image is not twice this size, what's it look like? */ } }
+
+/*# sourceMappingURL=css.map */
+/*# sourceMappingURL=retina.css.map */

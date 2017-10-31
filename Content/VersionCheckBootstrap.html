@@ -1,0 +1,12 @@
+﻿<script type="text/javascript">
+(function () {
+    if (typeof jQuery !== 'undefined') {
+        var xTabTouchVersion = jQuery("input#Version[name='Version']").val();
+        var serverVersion = '{{applicationVersion}}';
+        var versionRegex = /^(\d+)(\.\d+){3}$/;
+        if (typeof xTabTouchVersion !== 'undefined' && versionRegex.test(xTabTouchVersion) && versionRegex.test(serverVersion) && xTabTouchVersion !== serverVersion) {
+            location.reload(true);
+        }
+    }
+}());
+</script>

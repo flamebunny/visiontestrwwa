@@ -1,0 +1,17 @@
+.manual-address-display .edit-button {
+  float: right;
+  min-width: 3.5em;
+  text-align: center; }
+
+.manual-address-display {
+  width: 80%; }
+
+.manual-address-display span {
+  white-space: nowrap;
+  float: left;
+  text-overflow: ellipsis;
+  overflow-x: hidden;
+  width: 100%; }
+
+/*# sourceMappingURL=css.map */
+/*# sourceMappingURL=address.css.map */

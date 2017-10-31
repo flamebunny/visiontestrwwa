@@ -1,0 +1,177 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:og="http://ogp.me/ns#">
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <meta name="viewport" content="user-scalable=0, initial-scale = 1.0, maximum-scale = 1.0" />
+    <meta name="apple-mobile-web-app-status-bar-style" content="black" />
+    <script type="text/javascript">window['adrum-start-time'] = new Date().getTime();</script>
+    <script src="/_static/js/require.min_2842d0ca2a86ca59639ffe99308bdf3f.js" defer ></script>
+    <script src="/_static/js/manifest_89c0d35eab87c44855c5.bundle.js" defer ></script>
+    <script src="/_static/js/vendor_f986e60b259d6f54169e.bundle.js" defer ></script>
+    <script src="/_static/js/main_e4e35984ba73be2875eb.bundle.js" defer ></script>
+    <title>TabTouch Mobi Static</title>
+    <link href="Css/bootstrap.css" rel="stylesheet" type="text/css"/>
+    <link href="Css/core.css" rel="stylesheet" type="text/css"/>
+    <link href="Css/main.css" rel="stylesheet" type="text/css"/>
+    <link href="Css/display-list.css" rel="stylesheet" type="text/css"/>
+    <link href="Css/gradients.css" rel="stylesheet" type="text/css"/>
+
+    <link href="Css/player.css" rel="stylesheet" type="text/css"/>
+    <link href="Css/player-sports.css" rel="stylesheet" type="text/css"/>
+    <link href="Css/player-flags.css" rel="stylesheet" type="text/css"/>
+    <link href="Css/tab-track.css" rel="stylesheet" type="text/css"/>
+    <link href="Css/bet-slip.css" rel="stylesheet" type="text/css"/>
+
+    <link href="Css/landing-page.css" rel="stylesheet" type="text/css"/>
+    <link href="Css/locator.css" rel="stylesheet" type="text/css"/>
+    <link href="Css/favouritenumbers.css" rel="stylesheet" type="text/css"/>
+    <link href="Css/logon.css" rel="stylesheet" type="text/css"/>
+    <link href="Css/modal.css" rel="stylesheet" type="text/css"/>
+
+    <link href="Css/bet-wallet.css" rel="stylesheet" type="text/css"/>
+    <link href="Css/state.css" rel="stylesheet" type="text/css"/>
+    <link href="Css/theme.css" rel="stylesheet" type="text/css"/>
+    <link href="Css/iPad.css" rel="stylesheet" type="text/css"/>
+    <link href="Css/retina.css" rel="stylesheet" type="text/css" />
+
+    <link href="Sass/inline-vision.scss" rel="stylesheet" type="text/css" />
+</head>
+<body id="home">
+    <input id="Version" name="Version" type="hidden" value="" data-key="X-TabTouch-Version" />
+
+    <div class="page-container">
+
+        <div id="header-container">
+            <div id="header">
+                <div class="notification-wallet">
+                    <span class="status-matrix tick"></span>
+                    Your new slip can be found here.
+                </div>
+
+                <a id="headerHelp" style="display: none;" title=')' href='' data-nav class="button purple gradient help">
+                    <span class="icon" data-tid-help="">Help</span>
+                </a>
+                <a style="display: none;" href="#" class="button purple gradient back" id="backButton">
+                    <span class="icon">Back</span>
+                </a>
+
+                <a class="button purple gradient bet-slip bet-slip-toggle  right-header" data-tid-header-my-bets="">
+                    <span id="slideOutMenuButton">My Bets</span>
+                </a>
+
+                <h1>
+                    <a id="home-page" href='#home' data-nav>Homepage</a>
+                </h1>
+
+            </div>
+        </div>
+        <div id="main-container">
+
+        </div>
+    </div>
+
+    <div class="bet-slip-container logged-in" data-tid-my-bets-container="">
+
+    <span class="unauthenticated-view">
+        <a href="#close" class="close-drawer button gradient-red right t10 r10 b-10">Close</a>
+        <h2 class="heading-account clearfix">Hello Guest!</h2>
+        <p class="text-center">Already a TABtouch member?</p>
+        <div class="bet-buttons clearfix login">
+            <a class="button full-width gradient-orange" onclick="" data-tid-my-bets-login="">LOG IN</a>
+        </div>
+        <p class="text-center t0">Want to become a member?</p>
+        <div class="bet-buttons clearfix">
+            <a href="@Url.Action("CreateAccount", "SignUp")" class="button full-width gradient-orange" data-msg-publish="signup.leaving" data-msg-data='{ "page": "menu" }'>SIGN UP IN MINUTES</a>
+        </div>
+    </span>
+
+    <span class="authenticated-view">
+        <a href="#close" class="close-drawer button gradient-red right t10 r10 b-10" data-tid-my-bets-close="">Close</a>
+        <h2 class="heading-account account-name clearfix"></h2>
+        <dl class="list-columned">
+            <dt>Account:</dt>
+            <dd class="account-number" data-tid-my-bets-account=""></dd>
+            <dt>Balance:</dt>
+            <dd class="account-balance" data-tid-my-bets-balance=""></dd>
+        </dl>
+    </span>
+
+
+    <h2>My bets &amp; offers</h2>
+    <ul class="link-list" id="myBetsAndOffers">
+        <li class="bet-slip"><a href="@Url.TabTouchFragmentAction("Container", "BetSlip", new {area = "betbuilder"})" data-nav>Bet slip
+                <span class="number-indicator"></span>
+            </a>
+        </li>
+        <li class="multi"><a href="@Url.TabTouchFragmentAction("view", "multiview", new {area = "multi"})" data-nav>Multi
+                <span class="number-indicator"></span>
+            </a>
+        </li>
+        <li class="bet-wallet"><a href="@Url.TabTouchFragmentAction("GetBetWallet", "BetBuilder", new {area = "betbuilder"})" data-nav>Cash bets
+                <span class="number-indicator"></span>
+            </a>
+        </li>
+        <li class="offers">
+            @RenderMenuItem("default", "offer", new { area = "account" }, "offers", "Offers", "offers")
+        </li>
+    </ul>
+
+    <div class="authenticated-view">
+        <h2>Your account</h2>
+        <ul class="link-list">
+            <li>Foo</li>
+        </ul>
+    </div>
+
+    <h2>Help</h2>
+    <ul class="link-list">
+        <li><a href="#help">Online help</a></li>
+        <li><a href="tel:1300363688">Call us on 1300 36 36 88</a></li>
+    </ul>
+
+    <div class="bet-buttons clearfix authenticated-view">
+        <a href="/logon/logoff" class="button full-width gradient-red log-out-header" data-logon-logout>LOG OUT</a>
+    </div>
+</div>
+
+    <script>
+        window.tabtouchhomeurl = "/home.html";
+        window.modalserviceurls = "{}";
+    </script>
+    <script>
+        /* Someone expects this here */
+        window._LOGGING_SERVICE_CONFIG_ = {}
+    </script>
+	
+	<script src="Scripts/Libs/require/build-config.js"></script>   
+    <script src="Scripts/Libs/require/require.js"></script>
+    <script src="Scripts/main.js"></script>
+	
+	<script>
+		/*
+		require(["inline-vision"], function(deepMenu) {
+            deepMenu.init();
+        });
+		*/
+    </script>
+	
+    <script>
+        document.body.addEventListener("click", function(e) {
+            var currentTarget = e.target;
+
+            while (currentTarget.parentNode !== null) {
+                if (currentTarget.tagName.toLowerCase() === "a") {
+                    e.preventDefault();
+                    e.stopPropagation();
+                    return false;
+                }
+
+                currentTarget = currentTarget.parentNode;
+            }
+        });
+    </script>
+<!--
+    <script src="https://cdn.jsdelivr.net/npm/hls.js@latest"></script>
+-->
+</body>
+</html>

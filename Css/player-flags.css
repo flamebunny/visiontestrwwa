@@ -1,0 +1,291 @@
+ul.display-list.flag-icons li a span,
+.flag {
+  background-image: url(../../images/icons/30x20-flags.png);
+  width: 23px;
+  height: 16px;
+  display: inline-block; }
+
+.img-flag-afc {
+  background-position: -240px -20px; }
+
+.img-flag-africa {
+  background-position: 0 -20px; }
+
+.img-flag-argentina {
+  background-position: 0 -40px; }
+
+.img-flag-australia {
+  background-position: 0 -60px; }
+
+.img-flag-austria {
+  background-position: 0 -80px; }
+
+.img-flag-belgium {
+  background-position: 0 -100px; }
+
+.img-flag-bolivia {
+  background-position: -210px -80px; }
+
+.img-flag-brazil {
+  background-position: 0 -120px; }
+
+.img-flag-bulgaria {
+  background-position: -210px -60px; }
+
+.img-flag-canada {
+  background-position: 0 -140px; }
+
+.img-flag-chile {
+  background-position: -30px 0px; }
+
+.img-flag-china {
+  background-position: -30px -20px; }
+
+.img-flag-colombia {
+  background-position: -30px -40px; }
+
+.img-flag-continental {
+  background-position: -30px -60px; }
+
+.img-flag-croatia {
+  background-position: -210px -100px; }
+
+.img-flag-cyprus {
+  background-position: -30px -80px; }
+
+.img-flag-czech-republic {
+  background-position: -30px -100px; }
+
+.img-flag-denmark {
+  background-position: -30px -120px; }
+
+.img-flag-ecuador {
+  background-position: -30px -140px; }
+
+.img-flag-england {
+  background-position: -60px 0px; }
+
+.img-flag-faroe-islands {
+  background-position: -60px -20px; }
+
+.img-flag-fifa {
+  background-position: -240px -40px; }
+
+.img-flag-finland {
+  background-position: -60px -40px; }
+
+.img-flag-france {
+  background-position: -60px -60px; }
+
+.img-flag-friendlies {
+  background-position: -60px -80px; }
+
+.img-flag-germany {
+  background-position: -60px -100px; }
+
+.img-flag-greece {
+  background-position: -60px -120px; }
+
+.img-flag-hong-kong {
+  background-position: -210px -120px; }
+
+.img-flag-hungary {
+  background-position: -210px -140px; }
+
+.img-flag-iceland {
+  background-position: -60px -140px; }
+
+.img-flag-international {
+  background-position: -90px 0; }
+
+.img-flag-ireland {
+  background-position: -90px -20px; }
+
+.img-flag-israel {
+  background-position: -90px -40px; }
+
+.img-flag-italy {
+  background-position: -90px -60px; }
+
+.img-flag-japan {
+  background-position: -90px -80px; }
+
+.img-flag-korea {
+  background-position: -90px -100px; }
+
+.img-flag-latvia {
+  background-position: -90px -120px; }
+
+.img-flag-lithuania {
+  background-position: -240px 0px; }
+
+.img-flag-mexico {
+  background-position: -90px -140px; }
+
+.img-flag-netherlands {
+  background-position: -120px 0px; }
+
+.img-flag-northern-ireland {
+  background-position: -180px -60px; }
+
+.img-flag-new-zealand {
+  background-position: -120px -20px; }
+
+.img-flag-norway {
+  background-position: -120px -40px; }
+
+.img-flag-paraguay {
+  background-position: -210px -60px; }
+
+.img-flag-peru {
+  background-position: -120px -60px; }
+
+.img-flag-poland {
+  background-position: -120px -80px; }
+
+.img-flag-portugal {
+  background-position: -120px -100px; }
+
+.img-flag-romania {
+  background-position: -120px -120px; }
+
+.img-flag-russia {
+  background-position: -120px -140px; }
+
+.img-flag-scotland {
+  background-position: -150px 0px; }
+
+.img-flag-serbia {
+  background-position: -210px -20px; }
+
+.img-flag-singapore {
+  background-position: -150px -20px; }
+
+.img-flag-slovakia {
+  background-position: -150px -40px; }
+
+.img-flag-slovenia {
+  background-position: -150px -60px; }
+
+.img-flag-south-africa {
+  background-position: -150px -80px; }
+
+.img-flag-spain {
+  background-position: -150px -100px; }
+
+.img-flag-sweden {
+  background-position: -150px -120px; }
+
+.img-flag-switzerland {
+  background-position: -150px -140px; }
+
+.img-flag-turkey {
+  background-position: -180px 0px; }
+
+.img-flag-uae {
+  background-position: -180px -20px; }
+
+.img-flag-uefa {
+  background-position: -180px -40px; }
+
+.img-flag-united-kingdom {
+  background-position: -180px -60px; }
+
+.img-flag-ukraine {
+  background-position: -180px -80px; }
+
+.img-flag-united-states {
+  background-position: -180px -120px; }
+
+.img-flag-uruguay {
+  background-position: -180px -100px; }
+
+.img-flag-venezuala {
+  background-position: -180px -140px; }
+
+.img-flag-wales {
+  background-position: -210px 0px; }
+
+.img-flag-belarus {
+  background-position: -240px -60px; }
+
+.img-flag-georgia {
+  background-position: -240px -80px; }
+
+.img-flag-iraq {
+  background-position: -240px -100px; }
+
+.img-flag-morocco {
+  background-position: -240px -120px; }
+
+.img-flag-oman {
+  background-position: -240px -140px; }
+
+.img-flag-a-league {
+  background-position: -270px 0; }
+
+.img-flag-azerbaijan {
+  background-position: -270px -20px; }
+
+.img-flag-estonia {
+  background-position: -270px -40px; }
+
+.img-flag-indonesia {
+  background-position: -270px -60px; }
+
+.img-flag-iran {
+  background-position: -270px -80px; }
+
+.img-flag-jordan {
+  background-position: -270px -100px; }
+
+.img-flag-kazakhstan {
+  background-position: -270px -120px; }
+
+.img-flag-macedonia {
+  background-position: -270px -140px; }
+
+.img-flag-saudi-arabia {
+  background-position: -300px 0; }
+
+.img-flag-syria {
+  background-position: -300px -20px; }
+
+.img-flag-thailand {
+  background-position: -300px -40px; }
+
+.img-flag-uzbekistan {
+  background-position: -300px -60px; }
+
+.img-flag-vietnam {
+  background-position: -300px -80px; }
+
+.img-flag-world-cup {
+  background-position: -300px -100px; }
+
+.img-flag-northern-ireland {
+  background-position: -300px -120px; }
+
+/* new ones (20 june 2013) */
+.img-flag-algeria {
+  background-position: -300px -140px; }
+
+.img-flag-americas {
+  background-position: 0 -160px; }
+
+.img-flag-asian {
+  background-position: -30px -160px; }
+
+.img-flag-costa-rica {
+  background-position: -60px -160px; }
+
+.img-flag-euro {
+  background-position: -90px -160px; }
+
+.img-flag-none {
+  display: none !important; }
+
+/* For my purposes only - Zak */
+
+/*# sourceMappingURL=css.map */
+/*# sourceMappingURL=player-flags.css.map */

@@ -1,0 +1,19 @@
+/**
+ * Styling for the "landing banner" shown at the top of some pages (currently Home and Racing/Meetings).
+ */
+.landing-banner {
+  background-color: #000;
+  overflow: hidden;
+  position: relative; }
+  .landing-banner img {
+    width: 100%;
+    height: auto;
+    transition: transform 0.1s; }
+    @media only screen and (max-width: 768px) {
+      .landing-banner img {
+        position: relative;
+        width: 150%;
+        left: -25%; } }
+
+/*# sourceMappingURL=css.map */
+/*# sourceMappingURL=landing-banner.css.map */

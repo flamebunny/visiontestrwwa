@@ -1,0 +1,80 @@
+﻿    <link rel="stylesheet" type="text/css" href="/Content/CMS/{vl}/css/style.css" media="screen" />
+
+    <div id="page-title-container">
+        <div id="page-title">
+            <a href='/#' class="home-button" data-nav>Home</a>
+            <h2>TAB@TRACK</h2>
+            <a class="refresh-button" data-nav-refresh>Refresh</a>
+        </div>
+    </div>
+
+    <div id="content-container">
+
+        <div id="content">
+
+            <!-- ================================================================================================================= -->
+            <div class="locationBG ascot">
+                <!-- for different locations change the 2nd class and add a appropriate background image in /content/tab-and-track/style.css and upload the image to /content/tab-and-track/ -->
+                <img id="icon" class="center" src="/Content/CMS/{vl}/images/tab-and-track.svg" />
+                <p id="welcome">Welcome to</p>
+                <h2 id="venue">Pinjarra Racecourse</h2><!-- Change the location name -->
+            </div>
+            <div data-bind="visible:stage()==1">
+                <p>On behalf of Pinjarra Racecourse and TABtouch, thanks for checking in.</p><!-- Change the offer description -->
+                <p>Unlike other betting providers, TABtouch helps fund the WA racing industry, when you CHECK IN at the track, every dollar you spend supports your local race club.</p>
+                <p>Check In is available for TABtouch account holders only. </p>
+                <button type="button" data-bind="click:startRedeem" id="redeem" class="button orange flat redeem center">REDEEM</button>
+            </div>
+            <div data-bind="visible:stage()==2" class="info-box">
+                <p>Please confirm the redemption...</p>
+                <div class="center">
+                    <button type="button" data-bind="click:confirmRedeem" class="button orange flat">CONFIRM</button>
+                    <button type="button" data-bind="click:cancelRedeem" class="button gray flat">CANCEL</button>
+                </div><!-- /.center -->
+            </div>
+            <div data-bind="visible:stage()==3">
+                <p>Thank you, today's offer has been redeemed.</p><!-- Change the offer description -->
+                <a type="button" href="/#" data-nav class="button purple flat center">TABtouch HOME</a>
+            </div>
+            <p>IMPORTANT NOTE:<br /> Offers are only valid one per person per day. Once the offer is redeemed it cannot be used again on the same day. Please do not press the redeem button but allow the staff member to redeem the offer for you.</p>
+
+            <!-- ================================================================================================================= -->
+
+        </div>
+
+    </div>
+
+<input id="page-name" type="hidden" value="{vl}-home" />
+
+<script type="text/javascript">
+    require(['LoggingService'], function(loggingService) {
+        require(['knockout', 'jquery', '/Content/CMS/{vl}/js/viewmodel/home-viewmodel.js'], function (ko, $, controller) {
+            $(document).ready(function() {
+                var htmlPageNameElement = $('#page-name');
+                var htmlPageName = "";
+                var modulePageName = "{vl}-home";
+
+                loggingService.logDebug(modulePageName + " - loaded");
+
+                if (htmlPageNameElement) {
+                    htmlPageName = htmlPageNameElement.val();
+                }
+
+                if (htmlPageNameElement && htmlPageName == modulePageName) {
+                    loggingService.logDebug(modulePageName + " - started");
+                    htmlPageNameElement.remove();
+
+                    ko.applyBindings(controller, document.getElementById('content'));
+                    controller.initView();
+
+                    loggingService.logDebug(modulePageName + " - finished");
+                } else {
+                    loggingService.logDebug(modulePageName + " - mismatched(" + htmlPageName + ")");
+                    loggingService.logDebug(modulePageName + " - ignored");
+                }
+            });
+        });
+    });
+</script>
+
+<script type="text/javascript" src="/Content/CMS/{vl}/js/retina.js"></script>

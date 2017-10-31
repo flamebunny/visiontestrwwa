@@ -1,0 +1,462 @@
+.p-bet-wallet {
+  background: #3e3a42; }
+
+.wallet-container,
+.copy-container {
+  overflow: hidden;
+  visibility: hidden;
+  position: relative;
+  width: 100%;
+  max-width: 80em;
+  margin: 0 auto; }
+
+.copy-container {
+  visibility: visible; }
+
+div.wallet-container {
+  min-width: 32em;
+  max-width: 80em;
+  margin: 0 auto 30px auto; }
+
+.wallet-container .wallet {
+  overflow: hidden;
+  position: relative; }
+
+.wallet-container .wallet .ticket-container {
+  float: left;
+  width: 100%;
+  position: relative; }
+
+.wallet-container .wallet .ticket,
+.copy-container .copy {
+  background: #fff;
+  margin: 1em;
+  padding: 1em; }
+
+.wallet-container .wallet .ticket .barcode {
+  height: 4em;
+  width: 260px;
+  margin: 0 auto;
+  display: block; }
+
+.wallet-container .wallet .ticket h4 {
+  text-align: center; }
+
+.wallet-container .wallet .ticket h3.expired {
+  margin: 0;
+  background: #cb333b;
+  font-size: 2em;
+  /* 20/10 */
+  color: #fff;
+  text-align: center;
+  line-height: 2em;
+  /* 40/20 */ }
+
+.wallet-container .wallet .ticket .notice .text {
+  width: 80%; }
+
+.wallet-container .wallet .ticket .bet-slip li {
+  border: none;
+  margin: 0; }
+
+.wallet-container .wallet .ticket .bet-slip li:nth-child(even) {
+  background: #f4f4f4; }
+
+.wallet-container .wallet .ticket .bet-slip li li:nth-child(even) {
+  background: none; }
+
+.wallet-container .wallet .ticket .empty {
+  font-size: 1.4em;
+  padding: 0.714em;
+  border: 1px dashed #ddd;
+  display: block;
+  text-align: center; }
+
+.slides, .next-slide, .previous-slide {
+  background: rgba(0, 0, 0, 0.7);
+  color: #fff; }
+
+.slides {
+  display: inline-block;
+  padding: .5em 1em;
+  border-radius: 1.5em;
+  margin: 0 auto;
+  position: fixed;
+  bottom: 1em;
+  left: 50%;
+  margin-left: -5em;
+  width: 8.5em;
+  text-align: center; }
+
+.next-slide, .previous-slide {
+  position: fixed;
+  display: block;
+  top: 40%;
+  height: 6em;
+  width: 3em; }
+
+.previous-slide {
+  left: 0;
+  border-radius: 0 3em 3em 0; }
+
+.next-slide {
+  right: 0;
+  border-radius: 3em 0 0 3em; }
+
+.previous-slide span,
+.next-slide span {
+  width: 4em;
+  height: 4em;
+  margin-top: 1em; }
+
+.previous-slide span {
+  margin-left: -1em; }
+
+/* cash betting */
+.cash-betting p {
+  text-align: left; }
+
+.cash-betting table {
+  margin-left: auto;
+  margin-right: auto; }
+
+.cash-betting {
+  font-family: Arial, Helvetica, sans-serif; }
+
+.cash-betting li {
+  margin-left: 2em;
+  margin-right: 2em; }
+
+.center-text p {
+  text-align: center; }
+
+.cash-betting span.right-arrow {
+  display: inline !important;
+  padding: 0 !important;
+  float: right; }
+
+.cash-betting .heading img {
+  width: 80%;
+  margin-left: auto !important;
+  max-width: 310px;
+  margin-right: auto !important;
+  display: block; }
+
+.benefits ul {
+  margin: 10px 0;
+  padding: 0; }
+
+.benefits li {
+  font-size: 15px;
+  line-height: 1.3;
+  margin-bottom: 10px;
+  padding-right: 20px;
+  list-style: none; }
+
+.benefits li span {
+  background: url("../../images/content/Cash-Betting/orange-dot.png") no-repeat;
+  display: block;
+  width: 10px;
+  min-height: 10px;
+  height: auto;
+  float: left;
+  margin: 4px 10px 0 0; }
+
+.benefits li div {
+  margin-left: 20px; }
+
+.cash-betting .how-to-cash-bet {
+  background-color: #512d6d;
+  background-image: url("../../images/content/Cash-Betting/arrow-bg.png");
+  background-size: 250px;
+  background-repeat: no-repeat;
+  background-position: center top;
+  padding-bottom: 20px; }
+
+.cash-betting img.hero-2 {
+  display: none; }
+
+.cash-betting img.hero {
+  display: block;
+  height: 7em; }
+
+/* ------- mobile  ------- */
+@media (max-width: 471px) {
+  .how-to-cash-bet img {
+    float: none !important; }
+  .cash-betting img.hero-2 {
+    display: block;
+    height: 5em !important; }
+  .cash-betting img.hero {
+    display: none !important; } }
+
+.cash-betting .how-to-cash-bet img {
+  margin-left: 2em;
+  float: left; }
+
+.cash-betting .how-to-cash-bet .how-to-section p {
+  color: white;
+  margin-left: 2em;
+  margin-right: 2em;
+  -webkit-margin-before: 0.5em; }
+
+.cash-betting a.button.orange {
+  background: linear-gradient(to bottom, #ed8135 0%, #d5681d 100%);
+  border-top: 1px solid #F9AA5F;
+  border-bottom: 1px solid #D8A01F;
+  border-left: 1px solid #D9BE24;
+  border-right: 1px solid #D9BE24;
+  text-shadow: 0 1px 1px #EBA71E;
+  color: #000; }
+
+.cash-betting img.icon {
+  clear: both;
+  width: 150px; }
+
+.cash-betting .cell {
+  display: table-cell; }
+
+.cash-betting a.button {
+  max-width: 200px;
+  margin-right: 1em;
+  width: 30%;
+  float: left; }
+
+.cash-betting .has-switch {
+  background: none; }
+
+.cash-betting .has-switch.has-switch-cashbet.clearfix.pr10.pl10 {
+  padding-top: 2em; }
+
+.cash-betting .benefits {
+  padding-bottom: 2em; }
+
+.how-to-section {
+  overflow: auto;
+  padding-bottom: 2em;
+  padding-top: 1em;
+  display: block; }
+
+.how-to-section.build {
+  padding-top: 100px; }
+
+.how-to-cash-bet div p {
+  color: #e27a31;
+  text-decoration: none;
+  font-weight: bold; }
+
+.cash-betting .button-group {
+  margin-right: 2em;
+  margin-left: 2em; }
+
+.cash-betting hr {
+  margin-left: 2em;
+  margin-right: 2em; }
+
+.cash-betting .has-switch.has-switch-cashbet.clearfix.pr10.l10 {
+  max-width: 500px;
+  margin-left: auto !important;
+  margin-right: auto; }
+
+body #tabCashGuide-wrapper {
+  background: #fff;
+  font-size: 12px;
+  color: #666666;
+  font-family: Arial, Helvetica, sans-serif;
+  overflow-x: hidden;
+  padding: 0; }
+
+#tabCashGuide-wrapper ol, #tabCashGuide-wrapper ul {
+  margin: 10px;
+  margin-left: 20px;
+  font-size: 1em; }
+
+#tabCashGuide-wrapper ol li {
+  margin: 10px;
+  padding: 0; }
+
+#tabCashGuide-wrapper ul li {
+  font-size: 1em; }
+
+#tabCashGuide-wrapper h1 {
+  color: #481f6e;
+  font-size: 32px;
+  text-transform: uppercase;
+  line-height: 1.2em;
+  background: none;
+  width: auto;
+  height: auto;
+  text-indent: 0;
+  overflow: visible;
+  position: relative;
+  left: auto;
+  margin-left: 0; }
+
+#tabCashGuide-wrapper h2 {
+  text-transform: none !important;
+  text-shadow: none !important;
+  width: initial !important;
+  text-transform: capitalize;
+  color: #481f6e;
+  margin-left: 10px; }
+
+#tabCashGuide-wrapper h2 span {
+  display: initial; }
+
+#tabCashGuide-wrapper h4.win {
+  color: #481f6e;
+  font-size: 18px;
+  margin-bottom: 10px;
+  text-transform: uppercase;
+  font-size: 22px;
+  text-align: center;
+  background: none; }
+
+#tabCashGuide-wrapper h4 {
+  font-size: 16px;
+  margin-bottom: 5px; }
+
+#tabCashGuide-wrapper img {
+  outline: none;
+  border: none;
+  color: #000;
+  text-decoration: none; }
+
+#tabCashGuide-wrapper a {
+  outline: none;
+  border: none;
+  color: #512d6d;
+  text-decoration: none;
+  font-weight: bold; }
+
+#tabCashGuide-wrapper a:hover {
+  color: #a387c0; }
+
+#tabCashGuide-wrapper p {
+  margin: 0 0 10px;
+  line-height: 1.4em;
+  font-size: 1.2em; }
+
+#tabCashGuide-wrapper article, #tabCashGuide-wrapper aside, #tabCashGuide-wrapper details, #tabCashGuide-wrapper figcaption, #tabCashGuide-wrapper figure,
+footer, header, hgroup, menu, nav, section {
+  display: block; }
+
+#tabCashGuide-wrapper {
+  width: 40%;
+  margin: 0 auto; }
+
+#tabCashGuide-wrapper .section {
+  border-bottom: 2px #ccc dotted;
+  margin-bottom: 20px;
+  padding-bottom: 20px; }
+
+#tabCashGuide-wrapper .tabCG-step1 {
+  width: 100%; }
+
+#tabCashGuide-wrapper img.resizable {
+  width: 100%; }
+
+#tabCashGuide-wrapper .Accordion {
+  font-size: 14px; }
+
+.tabCG-header {
+  margin-top: 20px;
+  margin-bottom: 40px;
+  text-align: center; }
+
+img.tabCG-sign {
+  width: 80%; }
+
+.tabCG-step6 {
+  margin-bottom: 20px; }
+
+.tabCG_tab {
+  cursor: pointer; }
+
+.tabCG_description {
+  background: #000;
+  padding: 10px;
+  color: #e8e8e8;
+  position: absolute;
+  border-radius: 5px;
+  font-size: 16px;
+  line-height: 1.4em;
+  border: 1px #fff solid;
+  z-index: 99;
+  display: none; }
+
+/* Media Queries */
+/*mobile - horizontal*/
+@media screen and (max-width: 960px) {
+  #tabCashGuide-wrapper {
+    width: 60%;
+    margin: 0 auto; }
+  #tabCashGuide-wrapper h1 {
+    font-size: 26px; }
+  .tabCG_description {
+    font-size: 15px; } }
+
+/*mobile - vertical*/
+@media screen and (max-width: 740px) {
+  #tabCashGuide-wrapper {
+    width: 75%;
+    margin: 0 auto; }
+  #tabCashGuide-wrapper h1 {
+    font-size: 24px; }
+  .tabCG_description {
+    font-size: 14px; } }
+
+/*mobile - vertical*/
+@media screen and (max-width: 540px) {
+  #tabCashGuide-wrapper {
+    width: 90%;
+    margin: 0 auto; }
+  #tabCashGuide-wrapper h1 {
+    font-size: 22px; }
+  .tabCG_description {
+    font-size: 13px; } }
+
+.Accordion {
+  overflow: hidden; }
+
+.AccordionPanel {
+  margin: 0;
+  padding: 0; }
+
+.AccordionPanelTab {
+  background-color: #49206e;
+  color: #fff;
+  margin: 0 0 1px;
+  padding: 10px;
+  cursor: pointer;
+  border-radius: 5px;
+  -moz-user-select: none;
+  -khtml-user-select: none;
+  font-weight: 700; }
+
+.AccordionPanelContent {
+  overflow: auto;
+  margin: 0;
+  padding: 0 0 10px 10px;
+  height: 150px; }
+
+.AccordionPanelOpen .AccordionPanelTab {
+  background-color: #f60; }
+
+.AccordionPanelOpen .AccordionPanelTabHover, .AccordionPanelTabHover {
+  color: #fff; }
+
+.AccordionFocused .AccordionPanelOpen .AccordionPanelTab {
+  background-color: #66C;
+  color: #FFF; }
+
+@media print {
+  .Accordion {
+    overflow: visible !important; }
+  .AccordionPanelContent {
+    display: block !important;
+    overflow: visible !important;
+    height: auto !important; } }
+
+/*# sourceMappingURL=css.map */
+/*# sourceMappingURL=bet-wallet.css.map */

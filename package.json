@@ -1,0 +1,20 @@
+{
+  "name": "static-mobi",
+  "version": "1.1.0",
+  "description": "A static snapshot version of TABTouch Mobi that is useful for tech demos.",
+  "main": "webserver.js",
+  "author": "Jared Williams <jared.williams@rwwa.com.au>",
+  "license": "ISC",
+  "devDependencies": {
+    "countdown": "^2.6.0",
+    "decimal-js": "^6.0.0",
+    "express": "^4.14.0",
+    "node-sass": "^3.13.0"
+  },
+  "scripts": {
+    "start": "node webserver"
+  },
+  "dependencies": {
+    "yargs": "^8.0.2"
+  }
+}
