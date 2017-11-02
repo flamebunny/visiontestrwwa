@@ -26,11 +26,11 @@ app.get('/account/getaccountdetailsformenu', function(req, res) {
     res.send('{ "foo": "bar" }')
 })
 
-app.get('/sass*', function(req, res) {
+app.get('/Sass*', function(req, res) {
     var filename = path.basename(req.params[0])
 
     sass.render({
-        file: './sass/' + filename,
+        file: './Sass/' + filename,
         outputStyle: 'expanded'
     }, function(err, result) {
         if (err) {
