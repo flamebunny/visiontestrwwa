@@ -1,7 +1,5 @@
 require([       
-        "inline-vision",
-        "libs/hammer/hammer",
-        "libs/hls/hls"    
+        "inline-vision",    
     ],
     function (inlineVision) {		
         inlineVision.init();        

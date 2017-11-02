@@ -49,8 +49,8 @@ app.get('/sass*', function(req, res) {
 })
 
 
-app.use(express.static('./'))
-
+//app.use(express.static('./'))
+app.use(express.static(path.join(__dirname, 'app/Scripts/Libs/hammer')));
  
 var port = (args.port ? args.port : 3000)
 
