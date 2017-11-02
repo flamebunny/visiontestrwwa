@@ -54,6 +54,6 @@ app.use(express.static('./'))
  
 var port = (args.port ? args.port : 3000)
 
-app.listen(port, function() {
+app.listen(process.env.PORT || 3000, function() {
     console.log(`\n\tNow listening at http://localhost:${port}\n\n\tPress ctrl+c to stop`)
 })
