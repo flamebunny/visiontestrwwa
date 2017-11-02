@@ -1,6 +1,6 @@
 
 	define([
-			"libs/hammer/hammer", "libs/hls/hls"
+			"./Libs/hammer/hammer", "Libs/hls/hls"
 		],
 		function(Hammer, Hls) {
 			const skyOneUrl 			= "https://skyliverwwa-i.akamaihd.net/hls/live/570288/skyliverwwa/sky1rw.m3u8"
