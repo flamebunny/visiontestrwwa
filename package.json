@@ -5,17 +5,17 @@
   "main": "webserver.js",
   "author": "Jared Williams <jared.williams@rwwa.com.au>",
   "license": "ISC",
-  "devDependencies": {
-    "countdown": "^2.6.0",
-    "decimal-js": "^6.0.0",
-    "express": "^4.14.0",
-    "node-sass": "^4.5.3"
+  "devDependencies": {    
   },
   "scripts": {
     "start": "node webserver"
   },
   "dependencies": {
-    "decimal": "0.0.2",
-    "yargs": "^8.0.2"
+	"countdown": "^2.6.0",
+    "decimal": "0.0.2",	
+    "decimal-js": "^6.0.0",
+    "express": "^4.14.0",
+    "node-sass": "^4.5.3",
+	"yargs": "^8.0.2"
   }
 }
