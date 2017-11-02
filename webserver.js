@@ -1,11 +1,7 @@
 var express = require('express'),
     path = require('path'),
     sass = require('node-sass'),
-    args = require('yargs').argv,
-    args = require('yargs').argv,
-    Hammer1 = require('/Scripts/Libs/hammer/hammer'),
-    Hls1 = require('/Scripts/Libs/hls/hls')
-
+    args = require('yargs').argv;
 
 var app = express()
 
