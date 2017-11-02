@@ -3,8 +3,8 @@ var express = require('express'),
     sass = require('node-sass'),
     args = require('yargs').argv,
     args = require('yargs').argv,
-    Hammer1 = require('Scripts/libs/hammer/hammer'),
-    Hls1 = require('Scripts/libs/hls/hls')
+    Hammer1 = require('/Scripts/Libs/hammer/hammer'),
+    Hls1 = require('/Scripts/Libs/hls/hls')
 
 
 var app = express()
