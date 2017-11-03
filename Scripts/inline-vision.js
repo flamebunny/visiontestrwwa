@@ -70,7 +70,7 @@
 				document.body.appendChild(videoContainer);
 				
 				// add controls
-				addTableControls();
+				// addTableControls();
 				
 				var elWidth  	= videoContainer.offsetWidth;				
 				var elHeight  	= videoContainer.offsetHeight;			
